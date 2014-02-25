@@ -1,0 +1,70 @@
+
+Create lead generation applications that make multiple API calls (via AJAX) for form validation.
+Work with an Agile (Scrum) Development Team to deliver regular updates to business team.
+Train new UI Development team members.
+UI Developer, Local Matters, Inc
+August 2010 to August 2011, Denver, CO
+Front-end web development using HTML, CSS, JavaScript & JSP.
+Work in a Java environment using advanced UI web development techniques.
+Work with an Agile (Scrum) Development Team to deliver regular updates to client.
+UI Developer/Web Designer (Independent Contractor), Streamline IC
+December 2008 to August 2010, Boulder, CO
+Develop websites using (X)HTML, CSS & JavaScript.
+Effectively communicate directly with clients to design for their needs.
+Assist clients in the process of Search Engine Optimization.
+Web Designer/Manager Creative Dept., Media Breakaway, LLC
+April 2005 to December 2008, Westminster, CO
+Working manager of the design department.
+Front-end web development on web properties using (X)HTML, CSS & JQuery.
+Developed landing pages and email creatives for online advertising campaigns.
+EDUCATION
+
+St. Cloud State University (Minnesota), 1999-2003
+Bachelor of Arts (Art)
+Graduated in 2003 with a Bachelor of Arts Degree in Art.
+Focus on Fine Art, Drawing and Graphic Design.
+SKILLS
+
+Standards Based Front-end Web Development – Mobile Web Application Development – Semantic Markup – AJAX -
+Cross Browser Compatibility – User Interface Design – Responsive Web Design – Agile Development (Scrum) -
+Prototype Creation – Requirements Gathering – Semantic Markup – Wireframe Creation
+PROFICIENCIES
+
+Languages:  JavaScript, XHTML/HTML5, CSS2/CSS3, SASS/SCSS, JSON, XML, JSP/JSPX (JSTL & EL), CFM
+JavaScript Frameworks:  Angular.js, Backbone.js, Handelbars.js, jQuery, Require.js, Underscore.js
+Tools:  Chrome Developer Tools/Firebug, Git/Subversion, Sublime Text 2, Grunt.js, Yeoman.io, Bower.io, Photoshop, JIRA
+Jonathan Cross - Résumé / CV (Front-end web developer , UI Architect)
+
+/ UI Architect specializing in XML / XSL based content management and user interface design. This is Jonathan's resume of XML, XSLT, JSP, HTML, Javascript, PHP, Perl development skills. resume.jonathancross.com . I currently work for the Google's Web Studio in Zürich, Switzerland.
+
+xing.com/profile/Jonathan_Cross
+Title: Front-end web developer / UI Architect. Education: Bachelor of Arts degree in Conceptual Design, Magna Cum Laude. San Francisco State University.
+A2 level German proficiency. Intro: I am patient, curious and enthusiastic, giving 150% to everything I do.
+When not working, I travel extensively. WEB DEVELOPMENT RELATED SKILLS
+Front-end Development: 10 years HTML (including accessibility, semantic markup, localization) 8 years JavaScript; Advanced CSS, DOM, cross-browser / cross-platform compatibility. 6 years Advanced template development with XML, XSLT, and JSP. 9 years UNIX Shell scripting and Regular Expressions. General understanding of Java, PHP, Perl, CGI, SSI, mod_rewrite, etc. Architecture: User interface design, development process and workflow, content management and source control. XML Schema / data modeling. Intelligent systems for: web production automation, analysis, documentation and code-generation. Graphics: 10 years of experience using Adobe Photoshop for graphics production. Dynamic imaging techniques and bandwidth optimization. 3D illustration and rendering. Vector / Raster compositing and animation. Software: Extremely proficient with UNIX, Mac and Windows. Professional experience with Scene 7, Akamai, Coremetrics, CVS, Perforce, svn, Ant, Xalan, Cygwin and other "free" open-source. FULL-TIME WEBSITE DEVELOPMENT EXPERIENCE
+Current Google - Zürich, Switzerland.
+Webmaster developer IV 2003 - 2009 Macys.com - San Francisco.
+Returning UI Architect / Developer Collaboration with programmers to design / implement site enhancements.
+ i18n, pipelined XSLT + multi-level schema validation of XHTML 
+
+Lead UI Developer for Macys.com. Supervised and supported UI Development team (aka Content Engineering) in technical decisions.
+Oversaw Integration of 5 separate divisional websites into macys.com architecture.
+Chief template developer. I was responsible for research and implementation of major enhancements to the front-end templating system. The templating system was constructed in XML and XSLT and utilized Java (Xalan) to generate JSP (Java Server Pages) comprising the user interface of the macys.com website.
+Cross-Team collaboration. I worked closely with graphic designers, copywriters, business users, Flash developers, Java programmers, partner companies (Akamai, Coremetrics, Mapquest, Scene 7, HFI, etc) and peers at Bloomingdales.com to improve workflow and enhance the online users experience.
+Lead architect behind Content Engineering team's Development Environment (Rational ClearCase, Xalan, XML Spy, Cygwin, Windows, AIX and IBM WebSphere).
+2002 Bloomingdales.com - New York City.
+Development, training and setup of XSLT templating system. Complete overhaul of XML / XSLT content management system used by macys.com and adaptation to the business needs of Bloomingdales.com.
+Travel photos and stories - Personal photo archive.
+Perl based content management / viewing software written from scratch Utlizes XML, XSLT, DHTML, CSS to create a cohesive, fast and extremly light-weight system. Contains thousands of photos from my travels through Asia, Europe and North America.
+Simple e-commerce site. Javascript/CSS based (Dreamweaver compatable) templating system allows simplified administration by novice users.
+John Cross - portfolio of architecture.
+Minimalist design and custom XML + PHP based content management system.
+2001 URBANIZE.org - photographic exploration of street art.
+Created entire site; Concept, design, photography, illustrations, JavaScript, CSS, Perl.
+Benjamin Warwas - fashion designer.
+Created site from designer's illustrations; HTML, graphics, JavaScript, frames, CSS.
+Video4i - internet video e-mail system.
+
+Course Instructor for Macromedia DreamWeaver class. 1996 ElectroGIG 3D (San Francisco, CA.)
+UNIX Technical support, beta testing, 3D demonstration artist
+3D Artist / Animator for Ultra-Sparc product release video

@@ -1,0 +1,64 @@
+UI) Developer
+
+SAIPA (an acronym for the French Société  Anonyme  Iranienne  de  Production
+Automobile) was established in  1966,[2]  with  75%  Iranian  ownership,  to
+assemble Citroëns under license for the Iranian market. Nowadays  it  builds
+mainly Korean cars, but has also developed  its  own  engine  and  range  of
+cars.
+ Co-ordinated with BA group for better understanding of functional
+      requirements analyzed and designed the business requirements to
+      documented and implemented.
+     Responsible for Design and development of Web pages using PHP, HTML,
+      CSS including Ajax controls and XML.
+     Developed UI using JavaScript, HTML, CSS, JavaScript validations and
+      XML.
+     Implemented applications in JavaScript, and MySQL.
+     Worked extensively with the File management and image libraries.
+     Performed Client-side validations using JavaScript.
+    
+Environment: JavaScript, JQuery, PHP 5.0, HTML, CSS, AJAX
+
+UX Process
+
+User Surveys & Interviews
+User Research
+User Observation
+Heuristic Evaluation
+Task Analysis
+Card Sorting
+Storyboarding
+Workflows & State Diagrams
+Paper Prototyping
+Photoshop Prototyping
+
+Adobe Suite 4
+Fireworks
+Photoshop
+Illustrator
+Dreamweaver
+FlexBuilder IDE
+Visio
+PowerPoint
+InDesign
+Balsamiq
+Tech Smith – Morae Usability Testing
+HTML / DHTML
+CSS
+Experience
+
+iPass
+
+User Experience Designer / UI Engineer  May 2009 – Present
+
+Capture user personas and task scenarios.
+Define user interaction models and work-flows.
+Help drive product direction based on field research and functional requirements.
+Develop UI design specs that allows and facilitate project and functional requirements across a multi-disciplinary teams through all phases of the project.
+Generate UI mockups from paper-and-pencil concepts to wire-frame designs to high-fidelity prototypes that convey the interaction model.
+Document User Interface Specifications.
+Design and conduct usability studies, translate user findings into affinity diagrams, event sequence diagrams and use cases.
+Work closely with engineers and quality assurance teams to deliver the final product.
+PayPal Inc
+
+UI Designer & Web Developer
+Developed and maintained PayPal Virtual Terminal 1.5 and PayPal Pro Product pages on paypal.com. 

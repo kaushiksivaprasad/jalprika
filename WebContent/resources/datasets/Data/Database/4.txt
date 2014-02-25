@@ -1,0 +1,48 @@
+- X years of industry experience including X yrs of Oracle DBA/Oracle Applications DBA Experience.
+- Expertise in Oracle 11i, R12 Apps Installations, applying Patch Sets, System Administration, Cloning, Database and applications guard configuration.
+- Upgrades of database from 9i to 10gR2, Database Patch up gradation.
+- Experienced in installing, creating Oracle databases in different platforms like Sun Solaris, Red Hat Linux, Oracle Enterprise Linux, Windows 2000/2003/NT etc.
+- Patch Applications on TEST & Production environment.
+- Auto Config, Rapid clone implementation.
+- Regular Cloning/DB Refresh activities.
+- Backup & Restoration of Oracle Apps environment (Cold Backup, Hot backup) 
+- Troubleshooting experience in 11.5.X, R12 environment
+- Involved in daily DBA Activities like Instance Monitoring.
+- Implementing securities measures and preparing documentations.
+- Sound knowledge of effective using Metalink.
+- Writing Shell Scripting, Batch Files for automation.
+- Co-coordinated with Oracle Corp. in case of any technical issue resolution through SR.
+- Knowledge to work with features like Flashback, ASM, RMAN etc
+
+- Databases: Oracle 8.x, Oracle 9.x, Oracle 10gR2, MySQL
+- Operating System: RedHat Linux AS 2.1, 3.0, 4.0, 5.0, Sun-Solaris 5.8, 5.10, UNIX, Windows 95/98/2000/2003 server and XP
+- Productivity Tools: Oracle discoverer 9i, 10g (Admin – Desktop), SQL*Plus, OEM 9i, 10g, Export/Import, TOAD 9.5, Middleware /
+- Web Technologies: Oracle application server (9i, 10g), Apache etc.
+- ERP Tools: Oracle Applications EBS 11i, R12, Oracle collaboration suite.
+- Development Tools: Web Tech
+
+1. Oracle application multimode cloning (Multinode to Multinode) –With Shared Appl Top. 
+2. Oracle applications cloning (From multinode to single node).
+3. Oracle applications ATG RUP 5 patch application, applying CPU patches, Database patches and database maintenance activities etc.
+4. Working with Email Center, Oracle applications server 10g, Oracle Discoverer.
+5. Troubleshooting and monitoring working with Metalink etc.
+6. Database auditing, Tkprof, securing E-Business Suite.
+8. Cloned Oracle Apps instances using Rapid clone
+9. Maintaining Oracle Applications using administration utilities 10. Applied CPU (Critical Patch Updates) for security.
+11. Trouble Shooting Work Flow related Errors.
+12. Migration from 8i to 10g
+13. Forms Server Load Balancing in Oracle Apps (11i)
+14. SSL implementation in Oracle Apps (11i)
+15. DR Configuration.
+16. Manual cloning of Apps instance. 
+
+KEY PROJECTS UNDERTAKEN
+
+Operating System: Solaris 10, Solaris 8, RHEL-AS4, RHEL-AS5, Window 2003 & 2000 Server
+Skills: Oracle 8i, 9i, 10g, Oracle applications 11i, Oracle applications server 10g etc.
+Environment: Oracle Applications 11.5.10.2, Oracle 10gR2 DB, Oracle 8i
+
+2. Client: XXXX Pvt. Ltd- Configuration, Maintenance and support
+Role: Oracle DBA/Oracle Applications DBA
+Operating System: RedHat AS4
+Environment: Oracle Applications 11.5.10.2, RedHat AS4.

@@ -1,0 +1,64 @@
+          :  Implementation  of  ITK  Goldstein  Phase
+      Unwrapping
+           .                                   Filter
+       Environment        : Pentium 4 Intel Processor
+      Tool                           :  Insight Tool Kit (ITK), FLTK
+
+
+      Description
+      Goldstein Filter implementation is a POC successfully executed by TCS
+      to demonstrate TCS image processing capabilities and grab customer
+      project.
+      The system consists of a FLTK based GUI module and ITK Compliant
+      Goldstein Filter module. The GUI shall Interface with the User and
+      shall get necessary inputs from user. The FLTK based GUI is integrated
+      with ITK framework. The ITK Compliant Goldstein filter module shall
+      unwrap the phase data of the input Image file and shall store the
+      output files in predefined location.
+
+ 
+                      : People counting application
+                 : GCC Compiler, Pentium-4 Intel Processor,Free
+                           Scale IMX-51
+     
+      An application that can be used to detect pedestrians passing through
+      road or count number of people that passing through a corresponding
+      area.HOG algorithm are using to detect pedestrians/people here.
+      Application will count the detection and display average number of
+     
+         . Modified HOG algorithm according to requirement.
+         . Training of Pedestrian images
+            :  Patient  Specific  Instrument  Surgeon
+      Tool
+      Environment                      : Pentium 4 Intel Processor
+      Tool                                   : Visual Tool Kit (VTK), FLTK
+\
+      Development of a 3D tool that can be useful for surgeon during knee
+      surfaces of the knee with metal and plastic components shaped to allow
+      continued motion of the knee. Tool will display front, side and bottom
+      view of Fermer and Tibia bones. Surgeon can visualize the abnormality
+      by rotating 3D scanned images of the same and can plan the angle of
+      cut, depth of cut they have to do for surgery. The tool enables the
+      surgeon to choose appropriate Metal plate to replace damaged surfaces
+      of bone.
+
+
+
+
+      Creating GUI using FLTK
+      Development of tool using VTK
+
+INTERESTS: Medical Imaging and Devices, Advanced Software and Product Development, Medical Data and 
+Image Processing, Advanced Visualization, MRI 
+ 
+Thesis: Optical Flow techniques for Motion Estimation from Tagged MR Images 
+ 
+Emphasis on Digital Image Processing 
+ 
+ 
+Medical Image Analysis (MRI, CT, Nuclear Medicine) 
+ Cardiac MR Imaging, Functional Oncology Imaging, Contrast Agents 
+  Image Registration, Image Segmentation, Advanced Visualization and Rendering 
+ - Multi-dimensional Image Processing, Numerical Methods and Iterative Algorithms 
+ - FDA Regulatory Processes, HIPAA Compliance, IRBs 
+  

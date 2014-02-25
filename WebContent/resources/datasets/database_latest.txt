@@ -1,0 +1,200 @@
+Talented Database Developer with over 7 years- experience in
+
+SUMMARY OF QUALIFICATIONS
+
+Extensive experience in Oracle database platform, with expertise in SQL standards, PL/SQL, and Java, as well as cursors and modules.
+Strong knowledge of data warehousing, including Extract, Transform, and Load Processes.
+TECHNICAL EXPERTISE
+
+Languages:    PL/SQL, SQL, TSQL, Java, Java Developer, Oracle Express / Forms / Reports / Workflow, VB, VB.Net, C, XML, HTML
+OS:  UNIX, Linux, Windows 9x/NT/XP/2000/Vista, OS/2, DOS
+Databases:  Oracle 9i, 10g, 11g, MS SQL, MS Access, IBM DB2
+Tools:  ERWIN, Tool for Application Developer (TOAD), SQL Navigator/Developer, Oracle Developer Suite/Designer/Warehouse Builder, MS Visio/Visual Studio/Office, Rational Clear Case/Quest
+
+CERTIFICATIONS
+Oracle Certified Associate
+
+Managed all phases of credit-card database development, including mapping, designing, configuring, implementing, testing, and post-launch support.
+Oversaw 3-member team that created and integrated credit card pricing engine.
+Maintain credit card database, including creating and modifying tables, monitoring traffic, and importing and synchronizing data.
+Liaise with sales, marketing, and business contacts to define enhancements and improve customer support initiatives.
+Lead Database Developer (2006 - 2008)
+
+Extract, transform, and load data from legacy IBM servers into Oracle.
+Establish modules to identify and remove duplicate client data and applications.
+EFGH Services, Chicago IL: 2003 - 2006
+Database Developer
+
+Created Enterprise Resource Planning (ERP) system modules to improve and expand tracking and booking of Website orders.
+Wrote PL/SQL module to migrate and reconcile data from third parties into database.
+Migrated legacy system data into Oracle Database that customer service and sales representatives could access for wide range of services.
+Created multiple programs to ensure correct data transfer and communications between Oracle database and SQL Server ERP system.
+1. Resume for database developer- Posted by Prateek Bajpai
+Career Summary-
+2+ experience as Database Developer.
+- Extensive experience in writing stored procedures, functions and views.
+- Extensive experience in writing and tuning complex sub queries, SQL, PL/SQL stored procedures, functions, and triggers.
+- Good experience in PL/SQL and ETL scripting and query optimization.
+
+Oracle Apps resume 
+Oracle plsql developer resume
+DBA resume 
+SQL DBA resume
+
+Technical Skills-
+
+- Reporting Tools: Business Objects, Crystal Reports
+- Designing Tool: Erwin Data Modeler
+- Database:Oracle10g/9i/8i, SQL Server 2005, MS Access 
+- Languages: SQL, PL SQL, Oracle Developer 2000, C,C++,HTML,Java
+- Operating Systems: Windows95/98/2000/NT, MS DOS, UNIX
+- Other Tools: TOAD, SQL Loader, SQL Plus, Query Analyzer
+
+Key responsibilities handled-
+
+- Created Oracle Tables, Views, Constrains, Synonyms, Sequences.
+- Managed performance and tuning of SQL queries and fixed the slow running queries in production with utilities like Explain, Trace, and Stored Outlines.
+- Worked heavily with relationship database models, schemas & entity-relationship diagrams (ERMs) to create technical/system design documents.
+- Developed complex reports -- multi-functioned, leveled and grouped, summary functionality in main reports providing detailed drilldown through On Demand Sub-reports, dynamic link labeling, complex functions, cross-tabs, charts, shared variables, imported parameters and record sets from stored procedures, conditionally suppressed sections, error handling/messaging, clean and attractive designs, user friendly with instructional ToolTips.
+- Worked with team on customizing the abilities of Crystal Enterprise such as exporting, previewing, printing and emailing reports.
+- Load the data from MS Excel to Oracle Table and Oracle table to MS Excel.
+- Loaded the data using the SQL loader, Imports & UTL files based on file formats.
+2. Resume for database developer - Posted by Rajvardhan Rane
+Career Summary –
+
+-Professional with more than 20 years of extensive experience in designing and development Database applications.
+-Hand on expertise lies in Client/Server and WEB application development using Microsoft SQL Server 2008, Microsoft OLAP, SSAS, SSIS, ORACLE.
+-A strong background in Database architecture, design, data modeling, Database development and administration.
+
+Technical skills:
+
+-Operating System: Window NT 4.0, Solaris, Red Hat Linux 5.0, 5.4
+-RDBMS: Oracle 8i, 9iR2, 10gR1 & R2, 11gR1 & R2
+-Tuning Tool: TKPROF, EXPLAIN PLAN, AWR, ADDM
+-Backup Tool: Cold, Hot backup, RMAN, Import/Export
+-Tools: SQL Plus, Oracle Enterprise Manager (OEM), SQL * Loader
+-Script: Having knowledge of UNIX\Linux shell script
+-Language: Having Knowledge of SQL, PL/SQL, Java, VB
+-Virtual Machine: VM Ware server 2.0 to 2.2, Oracle VM Virtual box 4.0
+-BPM: Adept Knowledge of leading tool PEGA 5.5v
+
+Senior Database Developer
+
+-Working as a Database leader in development team
+
+Responsibilities:
+
+• Creating logical and physical model 
+• Developing T-SQL and C# stored procedures, functions, triggers, views. 
+• Designing and creating SSIS packages to extract, transform and load data from mainframe files and ORACLE database. 
+
+Senior Database Developer
+
+Responsibilities :
+
+• Creating logical and physical model for analytical databases 
+• Developing T-SQL stored procedures, functions, triggers ,views 
+• Working on optimization SQL Server performance
+• Designing and creating SSIS packages to ETL data from databases 
+• Improving mathematical model for Fixed Income Performance Attribution system
+
+Senior Database Developer
+
+Responsibilities:
+
+• Developing Relational, OLAP and Data Mining projects 
+• Creating logical and physical model for relational and multidimensional databases. 
+• Designing, debugging, and optimizing T-SQL and MDX queries, T-SQL and CLR stored procedures, functions, views and dynamic queries for SQL Server, OLAP Server 
+• Designing and creating ETL and Integration Services packages. 
+• Designing automated procedures using C#, VBScript, and autosys
+
+Database Architect/Developer
+
+Responsibilities: 
+
+• Created logical model including Entity-Relationship diagram . 
+• Converted logical model into physical model 
+• Developed over 1000 T-SQL stored procedures, functions, triggers and views. 
+• Worked on optimization SQL Server performance, monitoring, and queries tuning using Microsoft tools Performance Monitor
+• Designed and implemented schema 
+• Designed production database maintenance schema 
+- X years of industry experience including X yrs of Oracle DBA/Oracle Applications DBA Experience.
+- Expertise in Oracle 11i, R12 Apps Installations, applying Patch Sets, System Administration, Cloning, Database and applications guard configuration.
+- Upgrades of database from 9i to 10gR2, Database Patch up gradation.
+- Experienced in installing, creating Oracle databases in different platforms like Sun Solaris, Red Hat Linux, Oracle Enterprise Linux, Windows 2000/2003/NT etc.
+- Patch Applications on TEST & Production environment.
+- Auto Config, Rapid clone implementation.
+- Regular Cloning/DB Refresh activities.
+- Backup & Restoration of Oracle Apps environment (Cold Backup, Hot backup) 
+- Troubleshooting experience in 11.5.X, R12 environment
+- Involved in daily DBA Activities like Instance Monitoring.
+- Implementing securities measures and preparing documentations.
+- Sound knowledge of effective using Metalink.
+- Writing Shell Scripting, Batch Files for automation.
+- Co-coordinated with Oracle Corp. in case of any technical issue resolution through SR.
+- Knowledge to work with features like Flashback, ASM, RMAN etc
+
+- Databases: Oracle 8.x, Oracle 9.x, Oracle 10gR2, MySQL
+- Operating System: RedHat Linux AS 2.1, 3.0, 4.0, 5.0, Sun-Solaris 5.8, 5.10, UNIX, Windows 95/98/2000/2003 server and XP
+- Productivity Tools: Oracle discoverer 9i, 10g (Admin – Desktop), SQL*Plus, OEM 9i, 10g, Export/Import, TOAD 9.5, Middleware /
+- Web Technologies: Oracle application server (9i, 10g), Apache etc.
+- ERP Tools: Oracle Applications EBS 11i, R12, Oracle collaboration suite.
+- Development Tools: Web Tech
+
+1. Oracle application multimode cloning (Multinode to Multinode) –With Shared Appl Top. 
+2. Oracle applications cloning (From multinode to single node).
+3. Oracle applications ATG RUP 5 patch application, applying CPU patches, Database patches and database maintenance activities etc.
+4. Working with Email Center, Oracle applications server 10g, Oracle Discoverer.
+5. Troubleshooting and monitoring working with Metalink etc.
+6. Database auditing, Tkprof, securing E-Business Suite.
+8. Cloned Oracle Apps instances using Rapid clone
+9. Maintaining Oracle Applications using administration utilities 10. Applied CPU (Critical Patch Updates) for security.
+11. Trouble Shooting Work Flow related Errors.
+12. Migration from 8i to 10g
+13. Forms Server Load Balancing in Oracle Apps (11i)
+14. SSL implementation in Oracle Apps (11i)
+15. DR Configuration.
+16. Manual cloning of Apps instance. 
+
+KEY PROJECTS UNDERTAKEN
+
+Operating System: Solaris 10, Solaris 8, RHEL-AS4, RHEL-AS5, Window 2003 & 2000 Server
+Skills: Oracle 8i, 9i, 10g, Oracle applications 11i, Oracle applications server 10g etc.
+Environment: Oracle Applications 11.5.10.2, Oracle 10gR2 DB, Oracle 8i
+
+2. Client: XXXX Pvt. Ltd- Configuration, Maintenance and support
+Role: Oracle DBA/Oracle Applications DBA
+Operating System: RedHat AS4
+Environment: Oracle Applications 11.5.10.2, RedHat AS4.
+• Creating T-SQL and PL/SQL scripts for database objects update(tables, triggers, views, and stored procedures) 
+• Implementing version control through Visual Source Safe 
+Developing platform: Visual Studio .Net, MS SQL Server, HTML, JavaScript, Java, JBuilder, JRun, Oracle 9i
+Software Developer
+Grenville Management and Printing - Toronto, ON
+Project: GLink Online Order, Pricing and Invoice Management System 
+• Analyzing business requirements; Implementing enterprise level web application and Database design 
+• Creating database objects (tables, indices, stored procedures, views, permissions) using T-SQL, DDL and DML 
+• Implemented data conversion, processing and storage in MS SQL Server platform and tools; Created database, tables, views, indices, stored procedures and DTS; Created job queues in qManager in VBScript 
+Developing platform: MS SQL Server, XML, HTML, VBScript, CVS, Jira, qManager, CompuSet
+• Analyzed SQL execution plan using SQL Profiler, performed database tuning and optimizing. Significantly reduced SQL query time from 5+ minutes to 25 seconds based on a 200GB, non-RAID, non-partitioned-table DB 
+• Developed, enhanced a Visual C++ console application; Implement data transfer and loading using SQL BCP 
+• Designed and developed database structure, tables, views, and stored procedures in MS SQL Server 
+• Created a MySQL, PHP web application for email tracking; Created customized email templates in HTML; fulfilling automatic email follow-up functions based on user search for house model, size, lot and registration information 
+MS SQL Server 2008, MySQL, SVN, Windows, Linux
+MS SQL Server Stored Procedures codes 
+• Extensively worked on ADO.NET using Data Readers, Data Adapter, Data Sets, DataGrid, GridViews 
+• Created Tables, Stored Procedures, Views, and Triggers to manipulate data with MS SQL Server 
+• Implemented system performance analysis in database design, performance tuning, application code optimization; Created tables, index, views, stored procedures and triggers in Sybase database 
+SQL, database and Word bookmarks); Developed Employee Health Saving Account module 
+• Implemented Sybase database backup using Linux shell scripting 
+• Responsible for data modeling design in MS SQL Server, including tables, stored procedures, triggers 
+• Created reports using integrated Crystal Report and implemented XML format transforming 
+• Followed full software development life cycle (analysis, design, coding, testing, deployment and maintenance) 
+Developing platform: Visual Studio.NET (C#, ASP.NET), VB, ASP, SQL Server 2000, Crystal Report 
+
+• Implemented software source code version control using PVCS; Coding, testing, implementing and maintenance 
+• Over 10 years of database development experience in MS SQL Server (T-SQL), Sybase, Oracle, MySQL, Access 
+
+Databases: MS SQL Server 7.0/2000/2005/2008, Compact SQL, Sybase, Oracle 9i, MySQL, MS Access 
+Reporting Tools: Crystal Reports, SQL Server Reporting Services (SSRS), SSIS 
+Other Languages: Java, PHP, VB 6.0, SQL, T-SQL, PL/SQL, PowerBuilder, Linux Shell Scripts 

@@ -1,0 +1,59 @@
+Minor: Electrical Engineering
+TI DSP 320X2xx Training, 1997
+TI DSP 32055xx Training, 2003
+TECHNICAL
+SUMMARY:
+Hardware:
+MCF5xxx, MCP860, MC68xxx, TI DSP 320C240, 320C54CST, 320C5402, 320C5502, ADSP2185, 8051,  68HC812, IBM PC/x86 and Compatibles, HP730, Sun, Sparc, DEC6xxx, 8xxx, 11/750, 11/785, GPIB-488, MIL-STD-1553
+Operating
+System:
+RTEMS, PSOS, LINUX, Windows 9x/NT/2K/XP, UNIX, VRTX, USX, Nucleus, OS2/WARP, MS/DOS 6.2, VMS
+Languages:
+C, C++, MC68xxx/TI Assembly, Windows SDK, ZAPP, MFC, OWL, YACC, MEWEL, PASCAL, FORTRAN, Visual Basic.
+Design Tools:
+Evergreen Case Tools, CADRE Case Tools
+Debugging
+Tools:
+Single Step ICE, TI Debuggers, GDB, HP 7400 series ICE, Tektronics and HP Oscilloscope, Tektronics Logic Analyzer (Prism 3000, DAS), CADRE in-circuit emulator, HP4951a Protocol Analyzer, IO-Tech 488 Analyzer.
+PROFESSIONAL EMPLOYMENT
+ 
+September, 2002
+to Present
+ESTECH SYSTEMS INC, Plano, TX
+Senior Firmware Embedded Software Engineer
+Responsible for architecture, design, development, and testing of real-time, embedded code for a market leader in telephony equipment utilizing TDM and VOIP technologies.  Extensive experience with Motorola/Freescale MCF5206e, MCF5272, MCF5407; TI TMS320C5402, TMS320C5502; and ADSP-2185 processors using C/C++ and assemble.  Responsible for low-level board bring- up, including drivers for flash, SDRAM, network chips, RTC, Compact Flash, IC2, and T1 Framers. Ported, expanded and maintained many DSP algorithm in assembly to different DSP brands to take advantage of vendor pricing.  Algorithm familiarity include: tone generators, CID & DTMF codecs, and echo-cancellers.  Very comfortable with working on board at the hardware interface level.  Familiar with TDM serial bus interfaces as well with VOIP technologies.
+ 
+January, 2002
+to September, 2002
+ADVANCED IP COMMUNICATION, Richardson, TX
+Senior Embedded / Project Leader -Contractor
+testing of real-time, embedded code for a startup company to produce a small business phone switch use VoIP.  Developed code for the Motorola MCF5307 processor using C/C++ coupled with RTEMS real-time OS.  Wholly responsible for board check out, Gnu Tools, bring up of the board, writing bios, which provided a network boot, and 80% of the application. The proprietary board included flash, SDRAM, a network chip, a RTC, and Compact Flash.  Also developed code for the TMS32054CST DSP to interface to the coldfire utilitising the Host interface port. Used Assembly for low-level startup, driver ISR and debugging. Administered a Linux Server running 6.2, which we migrated, to 7.3.
+ 
+
+August, 2000
+to December, 2001
+COMSPACE CORP, Coppell, TX
+Senior Embedded Software Engineer
+Responsible for design, development, and testing of real-time, embedded code for a startup company that provided spectrum efficiency over RF.  Developed code for the Motorola MPC860 processor using C coupled with the PSOS real-time OS.  Also developed code for a VLSI ARM processor using C coupled with the Nucleus OS.  Further, developed network data interface applications using LINUX on a PC target, compiled with GNU tools.  Used Assembly for debugging and specialize in the areas of serial and network interfacing.
+ 
+December, 1995
+to August, 2000
+VARI*LITE, Irving, TX
+Senior Embedded Software Engineer - Project Lead
+Responsible for design, development, and testing of real-time, embedded code for the industry leader in concert and stage automated lighting. Products use Motorola HC12, 68360, 68302, 68332, 68040, and TI Dsp 320C240 processors on custom boards. Code generated in C, C++ and Assembly with the MicroTec C, GoDsp C and by HiCross embedded C/C++ compilers hosted on PC and UNIX platforms.  Trained in Booch Design model. Experience in Microsoft C++ for Windows 95 user interfaces.   Managed several projects and a team of 3 people.
+ 
+Software Engineer - Contractor
+Developed Window 3.X printer drivers for specialize Europe ticket printer. Development under Microsoft Visual C++ 1.5 compiler.
+ 
+January, 1990
+ to July, 1994
+ELECTROSPACE SYSTEMS, INC., Richardson, TX
+ 
+Software Engineer/ Software Lead
+Team member designing DF calibration controller required to control and collect data from several GPIB-488, serial (RS232, RS485), MIL-STD-1553, and TTL devices. System requirements included time critical control, recovery from equipment errors with reduced mode capability, and wireless synchronization timing between controllers. Selected hardware and software for project including PC 486 notebooks, interfaces, networking, and programming environment. Development under Windows 3.11 using Borland C++ 3.1/4.0.  Designed using C++ OOP with class structures and data encapsulation.
+ 
+Software Embedded Engineer
+Team member implementing a project design using C++ OOP on Sun Sparcs. Developed control algorithms for HP signal generators controlled using GPIB-488 bus. 
+ 
+Software Embedded Engineer / Project Lead
+Designed, developed, and tested embedded software for large earth station antenna control systems. Responsible for projects developed using C hosted on pc and Unix environments cross-compiled using MircoTec C coupled with the VRTX real-time OS based on the MC68xxx platforms. Used Tektronics Logic Analyzer (Prism 3000, DAS) and CADRE in-circuit emulator to debug code.

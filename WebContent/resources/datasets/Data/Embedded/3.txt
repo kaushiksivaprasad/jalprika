@@ -1,0 +1,55 @@
+Title
+embedded engineer
+
+Primary Skills
+c,embedeed c,assembly langauge,
+
+Objective:
+
+I would like to use my knowledge and ability in a challenging environment where I will get an opportunity to grow and add value to the organization and myself.
+
+Experience: 
+Currently working with Minilec India Pvt. Ltd. Pune. As Hardware Design and Embedded Firmware Testing Engineer. Since Dec. 2010 to till date.
+
+Project Handled: 
+
+Power Supply:
+SMPS 90-270VAC/DC-TNY IC of POWER INTGRATION based 12Watt 
+With regulated voltages o/p 12VDC, 5VDC & isolated 12Vdc used for Annunciator.
+
+Embedded firmware and Hardware Testing:
+To test various models of Alarm Annunciator like MBAS 0600, MBAS 9900, MICROWARN 0600, and MBAS 08. Whether it is working properly according to given sequence. If not, then detect fault and correct it. And to achieve the target within given time limit and offer the tested units for final quality check.
+Microcontroller based Alarm Annunciator systems are used for fault finding And Indication on colored LED displays. Optically isolated faults inputs. Site selectable faults contact configuration (NO/ NC).Different sequence used as per ISA Standard and thoughtful provision for troubleshooting and maintenance. Different type of power supply range used such as 20 to 60Vac/dc, 90-270Vac/dc etc. 
+I am working for the testing of the following products:
+?	Microcontroller Based Annunciator System.
+?	Microfacia 951 display system.
+?	Announciator System Using RS-232.
+?	DC Supply fail announciation system.
+
+Responsibilities:
+?	To visually inspect the circuit board and verify the proper placements of the component as per Design standard's.
+?	To check all voltage And Current levels using standard test and measurement instruments.
+?	To resolve fault by changing faulty component.
+Advance Diploma Course: 
+
+?	“EMBEDDED SYSTEM” Training from Sphere Techno Solution Pvt. Ltd Thane. 
+
+Technical Skills:
+
+?	Programming Languages	: C, Assembly Language Programming, Embedded 'C'.
+?	Software's/Tools	 : Kiel, Proteus, MATLAB 7.0.4(Simulink Blockset 
+Of AC Drives), Pad2pad & Express PCB for PCB 
+
+?	Protocols	 : RS232, I2C
+
+Projects Undertaken: 
+
+?	Final Year Diploma: Microcontroller Based Saline Level Indicator.
+Description: “The Saline Level Indicator” is used in hospitals for knowing level of
+water on PC or decoder circuit. Also this designed system is useful in Mechanical
+Industries, Chemical industries and hospitals
+?	Final Year B.E: Design And Implementation Of High Performance Motion Control Using DSP Kit TMS320F28335.
+Description: The Basic function of high performance motion controller is to control the 
+flow of energy from mains to the process. Application of digital signal processor
+TMS320F28335 to the schemes to increase the speed of processing and provide unity
+Power factor and hence increase the percentage of amount of energy saving which 

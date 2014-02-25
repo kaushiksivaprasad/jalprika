@@ -1,0 +1,63 @@
+
+B.S. in Computer Science
+Confidential, University, Northridge
+PROFESSIONAL EXPERIENCE:
+Confidential,Memphis, TNDec 2010 - Present
+Sr. UI Developer 
+Description: FedEx is an American global courier delivery Services Company. The company provides customers and businesses worldwide with a broad portfolio of transportation, e-commerce and business services. 
+Responsibilities:
+
+Responsible for creating the look and feel of the public website.
+Worked with designer who designed user interfaces and prototypes for a web-based internal system.
+Worked on front end pages that were developed in a professional manner using HTML, CSS, JavaScript, and JQUERY.
+Developed and implemented user interfaces as per latest W3C standards.
+Developed client side validation code using JavaScript and JQUERY.
+Creating cross-browser compatible and standards-compliant CSS-based page layouts.
+Involved in fixing Front-End issues with the layouts.
+Actively used XML (documents and transformations) for creating templates with dynamic data from XML file.
+Extensively used/modified JQUERY to perform AJAX calls for creating interactive web pages on JSON response.
+Worked with backend developers to convert HTML/CSS non-functional pages into dynamic JSP pages.
+Developed cross-browser pages using CSS, HTML, DHTML, and JavaScript
+Coded pages with best Search Engine Optimization (SEO) techniques.
+Designed applications that execute on various browsers such as Internet Explorer, Mozilla Firefox, Google Chrome, and Opera using various debugging tools like Firebugs/IE Developer Tools.
+Environment: HTML 4/5, CSS2/3, JavaScript, JQUERY, AJAX, JSON, XML,JSP, Eclipse and SVN
+
+Description: DIRECTV is one of the world’s leading providers of digital television entertainment service delivering a premium video experience to more than 32 million customers in the U.S and Latin America.
+
+Designed the Web application layout and forms using HTML, CSS, and JavaScript.
+Worked with business analysts to understand their business models and goals and help define strategy, content, and features.
+Converted PSD mockups into pure hand-written HTML and CSS pages.
+Handled all the client side validations, slide show, hide and show controls, dropdown menus and tab navigation using JQUERY.
+Responsible for transforming design mock-ups to W3C standards compliant HTML pages using HTML, XHTML, CSS.
+Wrote code to fetch data from Web services using JQUERY AJAX via JSON response and updating the HTML pages.
+Participated in day-to-day meeting, status meeting, strong reporting and effective communication with project manager and developers.
+Participated with SQA team in bug thrashing sessions to discuss and resolve bugs that were reported in JIRE.
+Used JavaScript libraries to create slider and page-turning animations on calendar widgets.
+Designed web pages and used applications that meet business and user goals through a positive user experience.
+Responsible for creating the screens with table less design following W3C standards.
+Environment: HTML, XHTML, CSS, JavaScript, JQUERY, AJAX, XML, JSON, SVN and Eclipse.
+
+Web Developer Santa Monica, CA
+
+Involved in extensive HTML coding. .
+Developed web forms using HTML for the application
+Developed data insertion forms and validated them using JavaScript..
+Designed web pages and used applications that meet business and user goals through a positive user experience.
+
+
+UI Engineer, TrackVia
+March 2013 to Present, Denver, CO
+Front-end web development using JavaScript (Angular.js), CSS (SCSS) & HTML.
+Consume a RESTful API developed by a team of API developers.
+Work on a large-scale application that gives business users the ability to create custom apps without knowing how to code.
+Work on an Agile (Scrum) Development Team to deliver regular updates to business team and project managers.
+UI Developer, DealersLink, Inc.
+October 2012 to March 2013, Superior, CO
+Front-end web development using HTML, CSS, JavaScript & CFM.
+Work in a ColdFusion environment using advanced UI web development techniques.
+Lead UI development of automotive auctioning web application for car dealerships.
+Work on small development team to deliver regular updates to project manager.
+UI Developer, Intela, LLC
+August 2011 to October 2012, Boulder, CO
+Front-end web development using HTML, CSS, JavaScript & JSPX.
+Work in a Java environment using advanced UI web development techniques.

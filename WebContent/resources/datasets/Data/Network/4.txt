@@ -1,0 +1,65 @@
+Designed and implemented two tier firewall system with Cisco ASA5520 and Juniper SSG320M firewalls  
+ Designed, implemented and support multicast technology on cisco platforms to support internal applications  
+ Configured and implemented multi-area OSPF on core layer Catalyst6509E switches, distribute layer Catalyst 4507R+E switches and access layer Catalyst 4507R+E, EX4200 switches 
+ Configured TACACS+, Radius on Cisco ACS5.0 AAA server to perform Authentication, Authorization and Accounting 
+ Configured IPSec site-to-site VPN on Cisco ASA 5520 and ASA 5505  
+ Monitored converged network performance, collected and analyzed network data statistics, optimized network with QoS, routing and compression technology, performed troubleshooting
+Network Specialist
+ Responsible for implementation, support and upgrade of the network infrastructure 
+ Monitored network performance, collected and analyzed network data statistics, optimized network with QoS, routing and compression technology 
+ Constructed and configured network setup including cabling, hardware setup, routers and switches setup and configuration, firewall setup and configuration, and user account creation 
+ Configured and maintained Cisco Catalyst 6509E core switches with dual sup 720-10GB, multiple 6748 Gigabit line cards, and dual power supplies. 
+ Monitored, investigated and troubleshot network issues using Traceroute, SolarWinds, IP SLA, Wireshark, Telnet, Syslog tools 
+ Implemented CiscoSecure ACS 4.2 and SolarWinds Orion in the OOB project 
+ Configured and implemented Cisco ASA5510 and Juniper SSG140 to control access in the OOB project 
+ Network Engineer
+ Maintained and monitored data center network performance 
+ Over 5 years’ experience in design, implementation and management of LAN/WAN network  
+ Excellent technical skills on implementing routing protocols(BGP, EIGRP, OSPF, IS-IS, MPLS), multicast, Firewall Security Policies & ACLs 
+ Proficient in Cisco and Juniper routers, switches(L2/L3), firewalls and load balancers  
+ Strong analytical, organizational and customer service skills, an ability to work independently and in a team  
+ Cisco CCNP, CCNA certificates 
+ Juniper JNCIS-ENT, JNCIS-SEC, and JNCIA certificates 
+ Diploma in Network Administrator and Security, BSc of Electric Engineering 
+ Routing Protocol (BGP, OSPF, EIGRP, and IS-IS), and MPLS LDP TDP 
+ Switching technology: VTP, STP, VLAN, ISL/802.1Q Trunking, and portfast 
+ Multicast: PIM, Sparse mode, Dense mode, IGMP v1/2/3, RP, MSDP 
+ QoS: Queuing, WRED, Traffic Shaping and Policing, RSVP, Link efficiency mechanisms  
+ VoIP: RTP, RTCP, SIP, H.323, SCCP 
+ High Availability: HSRP, VRRP, GLBP, Cisco firewall failover, and Juniper NSRP  
+ Security: IPSec VPN, MPLS VPN, GRE Tunnel, SSH, NAT, AAA Radius, TACACS+, and IPS 
+ Network management and troubleshooting: Cisco ACS, Radius, Solarwinds Orion, SNMPv1/2c/3, FTP, TFTP, syslog, WireShark, SPAN and Juniper NSM, Kiwi CatTools 
+ Optical cabling, coaxial cabling, twist CAT5/CAT6, and DWDM  
+ Applications: DNS, DHCP, FTP, TFTP, HTTP, HTTPs, Telnet, SMTP 
+ Cisco Routers(7200, 2900, 1800, 1900, 3600); Switches(Catalyst 2900, 3750, 3550, 3560G, 4507R+E, 6509E, Nexus 7000, 5000, 2000 ); firewalls (PIX515E, PIX525, ASA5505, ASA5520, FWSM); Load Balancer(CSS 11500, ACE, F5 Big-IP), Global Site Selector(GSS) and Juniper switches (EX3200, EX4200, EX4500, EX8200), Juniper firewalls: NetScreen SSG 320M, SSG550M, and SRX 650 
+ Cisco IOS, Juniper JunOS, Juniper ScreenOS, Windows server 2008
+Network Engineer
+November 2011 to Present
+Contract Position) 
+Core Responsibilities: 
+? Cisco Unified Communications - Integration of a new division in TMX CUCM Cluster (2013) 
+• 350 Users 
+• 300 Voicemail accounts 
+• 40 UCCX Agents 
+? Cisco Unified Communications Infrastructure Implementation Project (2011) 
+• Technical Lead for Nortel PBX to Cisco UC Infrastructure migration project. 
+? Implemented Cisco Call Manager, Unity Connection, UCCX, SRST Gateways, CUE, and Voice Recording Solution for six North American locations (~1300 users). 
+? Implemented 3rd Party Call Detail Record solution for TMX Cisco UC Infrastructure. 
+? Responsible for Cisco UC Infrastructure management and support. 
+? Infrastructure documentation and user training. 
+? Manage, maintain and support TMX Network Infrastructure. 
+? Supporting network infrastructure (Routers, switches and Wireless). 
+? Provide network support to TMX customers.
+Senior Network and IPT Engineer
+February 2011 to October 2011
+Core Responsibilities: 
+? Cisco Unified Communications Infrastructure. 
+? Managed, maintaining and supporting Cisco Call Manager, Unity, IPCC and CallRex Voice Recording Server for North American locations. 
+? Supported 550 devices, 400 users, 35 Agents, 12 Call Center Supervisors and 8 Call Center Teams. 
+? Responsible for Voice DR plan for all North American sites. 
+? Provided Cisco Call Manager, Unity and UCCX training to European Voice Support Team. 
+? Managed, maintained and supported Global WAN Infrastructure. 
+? Part of WAN Management Team and managed MPLS WAN for North American sites. 
+? Supported network infrastructure for in-house and off-site data centers. 
+? Managed, maintained and supported Global Network Security Infrastructure. 
+? Supported Corporate Network Security Infrastructure in North America and European sites. 

@@ -1,0 +1,66 @@
+Over 6 years of extensive experience in the field of Web Applications
+      development using HTML 4.01/5, CSS (2/3), XHTML, JavaScript, JQuery,
+      AJAX, XML and JSON.
+    . Proficient in developing web page quickly and effectively using, HTML
+      5, CSS3, JavaScript and JQuery and also experience in making webpage
+      cross browser compatible.
+    . Solid understanding of Responsive Web Design
+    . Experience in working MVC Architecture and also in using version
+      control(SVN)
+    . Extensive Experience in Applications using AJAX, Object Oriented (OO)
+      JavaScript, JSON, JSONP, and XML.
+    . Experience in debugging and troubleshooting the existing code.
+    . Experience in complete Software Product Development Life Cycle.
+    . In-Depth knowledge/Experience of Web 2.0, JavaScript, JQuery, W3C
+      Standards.
+    . Experience in using various IDE's, Dreamweaver, Notepad++, eclipse,
+      Adobe Photoshop.
+
+
+
+UI Web Technologies      HTML, HTML 5, XHTML, XML, XSL, XSLT,       
+                        JavaScript, AJAX,  JQuery, JSON, JSP, CSS, 
+                        UI Concept Modeling/Wire framing, GIMP     
+IDE, HTML Editor        Eclipse IDE, Notepad++, Adobe Dreamweaver  
+                        Apache Tomcat 5.0.25, HTTP Web Server      
+Web/App Servers                                                    
+
+
+     Worked in a team, Involved in developing the UI, layout and front-end
+      programming (HTML) for web application that matches requirements of T-
+      Mobile.
+     Excellent Coordination in project activities and ensure that all
+     project phases are followed and documented properly.
+     Extensively involved design discussions and user experience sessions
+      to provide inputs on the layout and UX.
+     Designed the front-end applications, user interactive (UI) web pages
+      using web technologies like HTML, XHTML, and CSS.
+     Developed non-functional HTML, CSS pages from the mock ups and
+      involved in UI review with UI architect and Business Units.
+     Developed GUI using JavaScript, HTML/HTML5, DOM, XHTML, AJAX, CSS3 and
+      JQuery in ongoing projects.
+     Converted the mock-ups into hand-written HTML, CSS (2/3), XHTML,
+      JavaScript, JQuery, AJAX, XML and JSON.
+     Improved user experience by designing and creating new web components
+      and features
+     Involved in complete SDLC - Requirement Analysis, Development, System
+      and Integration Testing.
+     Followed MVC Structure to develop Application.
+     Coded Java Script for page functionality and Lightbox plugins using
+      JQUERY.
+
+Environment: HTML5, HTML, CSS2, CSS3, JavaScript, Tomcat Apache, JQuery, JSP,
+
+
+     Coded Java Script for page functionality and Pop up Screens.
+     Implemented AJAX functionality using JQUERY, EXT-JS, JSON and XML.
+     Designed new classes and functionalities using various JQUERY
+      components for CRM application for customer service.
+     Wrote extensive HTML/ HTML5, CSS3 and JavaScript code to build dynamic
+      pages using Eclipse.
+     Developed and designed the various screens and its architecture in
+      accordance to UI Specs.
+     Wrote application level code to interact with the backend (Java) code
+      AJAX and JSON.
+
+Environment: HTML, CSS, JavaScript, JQUERY, SVN, Eclipse, M.S Windows.

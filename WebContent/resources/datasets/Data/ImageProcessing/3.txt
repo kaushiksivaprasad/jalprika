@@ -1,0 +1,64 @@
+ Extensive Customer Interaction for Research, Requirements, Design and Validation 
+ - Programming Languages: C, C++, IDL, MATLAB, HTML 
+ 
+ image-processing scientist for G.E.   Applied Science Lab in the area of cardiac MR image visualization, perfusion, 
+viability, functional imaging, and kinetic models. Responsibilities included defining and 
+implementing advanced image processing applications roadmap by interacting with physicians at 
+luminary cardiac MR sites such as Johns Hopkins Hospital, Cambridge Hospital, NIH, MD 
+and clinical scans. Experience with clinical protocols and multi-center trials, documentation, IRB 
+approvals, HIPAA compliance, and FDA regulatory processes. 
+
+ Image Analysis  algorithms for motion estimation from tagged cardiac MR images, and validated 
+them through simulations. Conducted research in the areas of image segmentation, optical flow, 
+and vector tomography. 
+ Image Analysis  
+Implemented a vector Wiener filter algorithm for dual-isotope radionuclide SPECT imaging. 
+Validated methods on simulated and real brain images. 
+ Image Analysis  
+Assisted in supervising and designing laboratory class for senior-level microprocessor 
+
+ artificial neural networks for pattern recognition. 
+ 
+ “Stochastic Models for DIV-CURL Optical Flow Methods,” IEEE Signal Processing Letters, 
+ 
+A Vector Wiener Filter for Dual-Radionuclide Imaging,” IEEE Transactions on Medical 
+
+ “On Variable Brightness Optical Flow for Tagged MRI,” in Information 
+Processing in Medical Imaging
+ “Bandpass Optical Flow for Tagged MRI,
+ “First-Pass Myocardial Perfusion MRI 
+ Oxygenation-Dependent Magnetic Resonance Imaging 
+ “A Technique for Automated Registration of Cardiac T2* images,
+“Cardiac Imaging with Steady-state Free Precession: Multi-shot Echo-Planar vs 
+“Fast Method for Correcting Image Misregistration Due to Organ Motion in Time-Series 
+MRI Data
+Why is Flow Mediated Dilation Dependent on Arterial Size? Assessment of the Shear Stress 
+Using Phase Contrast MRI,” Am J Physiol Heart Circ Physiol, 288: H822-H828, 2005. 
+“Accurate and Objective Infarct Sizing by Contrast-Enhanced Magnetic Resonance Imaging 
+in a Canine Myocardial Infarction Model,” J Amer Coll Cardiol., 44(12): 2383-9, 2004. 
+“Reproducibility of black-blood coronary vessel wall MR imaging,” J Cardio Mag Res, 
+
+“Enhanced Viability Imaging: Improved Contrast in Myocardial Delayed Enhancement Using 
+Dual Inversion-Time Subtraction,” In Press, MRM. 
+Dynamic Contrast Enhancement,” Molecular Imaging, 
+ “The apparent inversion time for optimal delayed enhancement magnetic resonance imaging 
+differs between the right and left ventricles,” J Cardio 
+1 “A novel method for assessing arterial endothelial function using phase contrast magnetic 
+resonance imaging: vasoconstriction during reduced shear.” J Cardio Mag Res, 
+Characterization of the peri-infarct zone by contrast-enhanced cardiac magnetic resonance 
+imaging is a powerful predictor of post-myocardial infarction mortality. 
+In imaging science, image processing is any form of signal processing for which the input is an image, such as a photograph or video frame; the output of image processing may be either an image or a set of characteristics or parameters related to the image. Most image-processing techniques involve treating the image as a two-dimensional signal and applying standard signal-processing techniques to it.
+Image processing refers to processing of a 2D picture by a computer. Basic definitions:
+An image defined in the “real world” is considered to be a function of two real variables, for example, a(x,y) with a as the amplitude (e.g. brightness) of the image at the real coordinate position (x,y).
+Modern digital technology has made it possible to manipulate multi-dimensional signals with systems that range from simple digital circuits to advanced parallel computers. The goal of this manipulation can be divided into three categories:
+Image Processing (image in -> image out)
+Image Analysis (image in -> measurements out)
+Image Understanding (image in -> high-level description out)
+Image processing usually refers to digital image processing, but optical and analog image processing also are possible. This article is about general techniques that apply to all of them. The acquisition of images (producing the input image in the first place) is referred to as imaging.
+, Image Processing, Information Retrieval, Machine Learning, Human Interface
+ Computer Vision, Pattern Recognition, Support Vector Machine People Recognition, Surveillance System
+Algorithms for Image Processing and Computer Vision (Second Edition)
+Digital Image Processing and Analysis provides the tools for developing and advancing computer and human vision applications and brings image processing and analysis together into a unified framework.
+Image Processing and Analysis - Variational, PDE, Wavelet, and Stochastic Methods
+ Image Processing - Principles and Applications
+The Handbook of Document Image Processing and Recognition provides a consistent, comprehensive resource on the available methods and techniques in document image processing and recognition. It includes unified comparison and contrast analysis of algorithms in standard table formats. Thus, it educates the reader in order to help them to make informed decisions on their particular problems.

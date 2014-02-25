@@ -1,0 +1,32 @@
+• Creating T-SQL and PL/SQL scripts for database objects update(tables, triggers, views, and stored procedures) 
+• Implementing version control through Visual Source Safe 
+Developing platform: Visual Studio .Net, MS SQL Server, HTML, JavaScript, Java, JBuilder, JRun, Oracle 9i
+Software Developer
+Grenville Management and Printing - Toronto, ON
+Project: GLink Online Order, Pricing and Invoice Management System 
+• Analyzing business requirements; Implementing enterprise level web application and Database design 
+• Creating database objects (tables, indices, stored procedures, views, permissions) using T-SQL, DDL and DML 
+• Implemented data conversion, processing and storage in MS SQL Server platform and tools; Created database, tables, views, indices, stored procedures and DTS; Created job queues in qManager in VBScript 
+Developing platform: MS SQL Server, XML, HTML, VBScript, CVS, Jira, qManager, CompuSet
+• Analyzed SQL execution plan using SQL Profiler, performed database tuning and optimizing. Significantly reduced SQL query time from 5+ minutes to 25 seconds based on a 200GB, non-RAID, non-partitioned-table DB 
+• Developed, enhanced a Visual C++ console application; Implement data transfer and loading using SQL BCP 
+• Designed and developed database structure, tables, views, and stored procedures in MS SQL Server 
+• Created a MySQL, PHP web application for email tracking; Created customized email templates in HTML; fulfilling automatic email follow-up functions based on user search for house model, size, lot and registration information 
+MS SQL Server 2008, MySQL, SVN, Windows, Linux
+MS SQL Server Stored Procedures codes 
+• Extensively worked on ADO.NET using Data Readers, Data Adapter, Data Sets, DataGrid, GridViews 
+• Created Tables, Stored Procedures, Views, and Triggers to manipulate data with MS SQL Server 
+• Implemented system performance analysis in database design, performance tuning, application code optimization; Created tables, index, views, stored procedures and triggers in Sybase database 
+SQL, database and Word bookmarks); Developed Employee Health Saving Account module 
+• Implemented Sybase database backup using Linux shell scripting 
+• Responsible for data modeling design in MS SQL Server, including tables, stored procedures, triggers 
+• Created reports using integrated Crystal Report and implemented XML format transforming 
+• Followed full software development life cycle (analysis, design, coding, testing, deployment and maintenance) 
+Developing platform: Visual Studio.NET (C#, ASP.NET), VB, ASP, SQL Server 2000, Crystal Report 
+
+• Implemented software source code version control using PVCS; Coding, testing, implementing and maintenance 
+• Over 10 years of database development experience in MS SQL Server (T-SQL), Sybase, Oracle, MySQL, Access 
+
+Databases: MS SQL Server 7.0/2000/2005/2008, Compact SQL, Sybase, Oracle 9i, MySQL, MS Access 
+Reporting Tools: Crystal Reports, SQL Server Reporting Services (SSRS), SSIS 
+Other Languages: Java, PHP, VB 6.0, SQL, T-SQL, PL/SQL, PowerBuilder, Linux Shell Scripts 

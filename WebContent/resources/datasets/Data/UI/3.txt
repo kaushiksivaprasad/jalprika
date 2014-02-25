@@ -1,0 +1,67 @@
+Assisted UI leads and product manager with concept designs and implementation of prototype for new and undeveloped features that allowed PayPal customer representative team to track customers’ instant payment notifications reports.
+Implemented the core set of features and marketing content for new merchant products offerings for launch of PayPal Canada site.
+Acted as a liaison between PayPal User Experience team and Payflow Pro web development team. Responsibilities included:
+Led the project of the PayPal Payflow Manager from concept to detailed design phase; prepared and presented design progress updates to executives in PayPal Merchant team.
+Provided click through prototypes using HTML, CSS, and JSP Scripting for usability testing for PayPal Merchant Manager portal applications.
+Worked with the User Experience team and product managers to identify and design features to enhance the usability of PayPal Merchant products.
+Wrote training materials and trained new hires resulting in high productivity and efficiencies.
+VeriSign, Inc.
+
+UI Developer and Usability EngineerDecember 2000 – November 2005
+Worked with product management, engineering, customer support, and other stakeholders to do usability and UI design for VeriSign’s e-commerce, digital certificate, security, and other products. Responsibilities included:
+
+Led new product marketing initiatives that increased customer satisfaction by 40% through updating the look and feel and functionalities behavior for Payments web applications.
+Performed heuristic evaluations on web based application for Payments Portal, and provided competitive analysis report and presentation to the cross functional team members.
+Conducted navigation/Information Architecture research using card-sorting techniques to develop recommendations for a more logical and intuitive menu structure.
+Designed low-fidelity paper wire-frames for Payments portal to conduct iterative rounds of usability evaluation for validation of the new features and concepts.
+Implemented text based navigation progress bar using HTML and JavaScript for Payments Registration flows to reduce the cost of localizing image based navigation progress bar.
+Designed intuitive and user-friendly interface and prototypes using (X)HTML, CSS, JavaScript, and JSP for several VeriSign web-based applications (Payments Manager, VeriSign End User Policy Wizard, and VeriSign Secured Seal).
+Performed and recorded usability tests in person using TechSmith tool Morae.
+Provided support to engineering teams by providing UI specifications through clickable mock-ups using HTML, CSS and JSP Scripting.
+Contractor -- UI Design, Prototyping & Web Development
+
+2000 – Present
+Consulting as Web User Interface Analyst, Information Architect, and Project Manager. Client list includes:
+
+Omar’s Car Care -- http://omarcarcare.com/index.html
+Project Management, UI Designer, Screen Layouts, Site web development
+QMetry, Inc. -- http://www.qmetry.com
+Project Management, UI Designer, Screen Layouts, Site web development
+Aloki Design Studio -- http://www.aloki.com | http://www.ishitashah.com/entrege/
+Provided HTML mock-ups for new brand of client Entrege.
+BayVP.org -- http://ww.bayvp.org | http://www.ishitashah.com/Joomla/templates/bayvp/home.html
+Volunteer for maintainance and future enhancement of the site.
+InfoStretch, Corp -- http://www.infostretch.com
+Project Management, UI Designer, Screen Layouts, Site web development
+Healthscape, Inc.
+UI Consultant, Developed front end Web site using HTML and JavaScript. Designed the Healthscape site's architecture and structural document.
+MsMoney.com
+Developed and tested 700 different dynamic and static web pages using HTML and JavaScript. Developed in house testing environment, test procedures and step-by-step test cases.
+Arsin Corporation
+Worked with product managers and HR to design and prototype intranet for employees’ use.
+Education
+
+Fall 2010, Cooper – In house training
+
+Spring 2010, Adaptive Path – UX Intensive
+
+B.S. Computer Science, San Jose State University, San Jose, California
+Concentration on design and numerical analysis.
+
+UI/Web Developer with over 6 years of professional experiences in Web Designing and User Interface Development using Web Technologies.
+Strong developing experience with HTML, DHTML, CSS and JavaScript.
+Experienced in JavaScript frameworks like JQUERY.
+Expertise in using XML/JSON and AJAX to link with back-end applications.
+Expertise in debugging and troubleshooting existing code using Firebug and Developer Tools.
+Strong experience with Cross Browser Compatibility issues and Optimization for web, including CSS Sprites and best practices.
+Well experienced in using version control systems subversion (SVN), Visual source Safe and team Foundation Server (TFS).
+Experience in Development and Documentation throughout the entire SDLC.
+Experience in designing Rich Internet Application (RIA’s) with JQUERY, AJAX.
+Up to date Knowledge with the latest industry trends in UI design and usability.
+Strong communication, problem-solving, and planning skills, with ability to work independently or in a team environment.
+TECHNICAL SKILLS:
+Web Technologies: HTML4/5, CSS2/3, XML, AJAX, JavaScript, JQUERY, JSON
+Database: Oracle9x/10x, MS SQL Server, MS-Access, SQL
+Operating: Windows (vista/9x/NT/XP), Win 7
+Developer Tools: Eclipse IDE, Dreamweaver, MS Office, MS-Visio, MS Excel
+Browser: IE6, 7 & 8, Firefox, Opera, Chrome 4, Safari 5

@@ -1,0 +1,62 @@
+- IEEE Young Author Best Paper Award, IEEE Signal Processing Society, 2009.
+- Student Travel Grant, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'07), Hawaii, 2007.
+- Finalist of the Student Paper Contest, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'07), Hawaii, 2007.
+Postdoctoral Fellowship, Swiss National Science Foundation, 2010-2012.
+- Travel Grant, IEEE International Conference on Image Processing (ICIP'10), Hong Kong, 2010.
+- IEEE Young Author Best Paper Award, IEEE Signal Processing Society, 2009.
+- Student Travel Grant, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'07), Hawaii, 2007.
+ This position involves research and development in image processing applications that are of potential use within Intel. The work involves applying various image processing and analytical methods to specific problems of interest. Of special interest are novel techniques tied to variational segmentation, image and data classification methodologies,
+ 3-D image processing techniques, image compression, and texture analysis.
+This is where you can truly solve real world 3d image processing and facial recognition challenges.  The algorithms you develop and implement are critical to DSC's cutting-edge electro-optic surveillance systems.  You will work closely with like-minded developers, engineers and scientists to develop rock solid, robust and maintainable 
+software between complex hardware and software systems.
+Pattern Recognition and Java We need someone that is an expert in pattern recognition (corner detection) and image processing. 
+We have a Java applet that captures desktop screenshots. We need to be able to extract the component coordinates that is being clicked or typed in (in focus) from the image. The exact coordinates of the mouse click will be given so we 
+would need to analyze the surrounding area to get the full coordinates of the component. 
+
+Acquire, process, and analyze images and video for algorithm development and system design
+
+Algorithm development is central to image processing and computer vision because each situation is unique, and good solutions require multiple design iterations. MathWorks provides a comprehensive environment to gain insight into your image 
+and video data, develop algorithms, and explore implementation tradeoffs.
+
+ImageDimensions ? ImageChannels ? ImageType ? ImageHistogram ? ...
+Thumbnail — display an image in thumbnail form
+Basic Image Manipulation »
+ImageAdjust — adjust levels, brightness, contrast, gamma, etc.
+Sharpen ? Blur ? Lighter ? Darker ? ...
+ImageEffect — special image and photographic effects
+Geometric Operations »
+ImageCrop ? ImagePad ? ImageTake ? ...
+ImageResize ? ImageRotate ? ImageReflect
+ImageAlign ? ImageTransformation ? ImagePerspectiveTransformation ? ...
+Color Manipulation »
+ColorConvert ? ColorSeparate ? ColorQuantize ? ColorReplace ? ...
+ImageHistogram ? ImageLevels ? Binarize ? HistogramTransform ? ...
+Filtering & Neighborhood Processing »
+ImageFilter ? ImageConvolve ? ImageCorrelate
+GaussianFilter ? GradientFilter ? LaplacianFilter ? DerivativeFilter ? ...
+MinFilter ? MeanFilter ? MedianFilter ? EntropyFilter ? ...
+Morphological Image Processing »
+Dilation ? Erosion ? Opening ? Closing ? Thinning ? Pruning ? ...
+DistanceTransform ? TopHatTransform ? HitMissTransform ? ...
+MorphologicalComponents ? MorphologicalPerimeter ? MorphologicalEulerNumber ? ...
+Image Restoration »
+Inpaint ? ImageDeconvolve ? ...
+BilateralFilter ? MeanShiftFilter ? WienerFilter ? TotalVariationFilter ? CurvatureFlowFilter ? ...
+Feature Detection »
+EdgeDetect  ContourDetect  CrossingDetect  MinDetect  MaxDetect 
+ImageKeypoints  ImageCorrespondingPoints  ImageCorners 
+ImageLines  FindFaces  TextRecognize 
+Segmentation Analysis »
+Binarize — segmentation by thresholding
+MorphologicalBinarize  RegionBinarize 
+WatershedComponents  ClusteringComponents 
+ComponentMeasurements  SelectComponents 
+Texture Analysis
+ImageCooccurrence — create texture co-occurrence matrix
+Image Arithmetic
+ImageAdd  ImageSubtract  ImageDifference  ImageMultiply  ImageApply  ImageDistance
+Image Tiling & Compositing
+ImagePartition  ImageAssemble
+ImageCompose  HighlightImage
+Out-of-Core Image Processing
+ImageFileApply  ImageFileFilter  ImageFileScan

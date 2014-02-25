@@ -1,0 +1,59 @@
+2. Resume for database developer - Posted by Rajvardhan Rane
+Career Summary –
+
+-Professional with more than 20 years of extensive experience in designing and development Database applications.
+-Hand on expertise lies in Client/Server and WEB application development using Microsoft SQL Server 2008, Microsoft OLAP, SSAS, SSIS, ORACLE.
+-A strong background in Database architecture, design, data modeling, Database development and administration.
+
+Technical skills:
+
+-Operating System: Window NT 4.0, Solaris, Red Hat Linux 5.0, 5.4
+-RDBMS: Oracle 8i, 9iR2, 10gR1 & R2, 11gR1 & R2
+-Tuning Tool: TKPROF, EXPLAIN PLAN, AWR, ADDM
+-Backup Tool: Cold, Hot backup, RMAN, Import/Export
+-Tools: SQL Plus, Oracle Enterprise Manager (OEM), SQL * Loader
+-Script: Having knowledge of UNIX\Linux shell script
+-Language: Having Knowledge of SQL, PL/SQL, Java, VB
+-Virtual Machine: VM Ware server 2.0 to 2.2, Oracle VM Virtual box 4.0
+-BPM: Adept Knowledge of leading tool PEGA 5.5v
+
+Senior Database Developer
+
+-Working as a Database leader in development team
+
+Responsibilities:
+
+• Creating logical and physical model 
+• Developing T-SQL and C# stored procedures, functions, triggers, views. 
+• Designing and creating SSIS packages to extract, transform and load data from mainframe files and ORACLE database. 
+
+Senior Database Developer
+
+Responsibilities :
+
+• Creating logical and physical model for analytical databases 
+• Developing T-SQL stored procedures, functions, triggers ,views 
+• Working on optimization SQL Server performance
+• Designing and creating SSIS packages to ETL data from databases 
+• Improving mathematical model for Fixed Income Performance Attribution system
+
+Senior Database Developer
+
+Responsibilities:
+
+• Developing Relational, OLAP and Data Mining projects 
+• Creating logical and physical model for relational and multidimensional databases. 
+• Designing, debugging, and optimizing T-SQL and MDX queries, T-SQL and CLR stored procedures, functions, views and dynamic queries for SQL Server, OLAP Server 
+• Designing and creating ETL and Integration Services packages. 
+• Designing automated procedures using C#, VBScript, and autosys
+
+Database Architect/Developer
+
+Responsibilities: 
+
+• Created logical model including Entity-Relationship diagram . 
+• Converted logical model into physical model 
+• Developed over 1000 T-SQL stored procedures, functions, triggers and views. 
+• Worked on optimization SQL Server performance, monitoring, and queries tuning using Microsoft tools Performance Monitor
+• Designed and implemented schema 
+• Designed production database maintenance schema 

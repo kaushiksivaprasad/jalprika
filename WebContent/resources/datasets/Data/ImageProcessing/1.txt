@@ -1,0 +1,62 @@
+Domains: Image processing, Machine learning
+Programming: C/C++, MATLAB, Unix shell scripting, Java, 68HC11 Assembly code
+Libraries: Nokia Qt, Kitware ITK, Kitware VTK, OpenGL, Nvidia Cg, Nvidia CUDA, FLTK, Siemens TeamCenter Enterprise
+(PLM) customization
+IDEs: MS Visual Studio, Eclipse	Tools: MS Expression Web, MS Project, MS Visio
+Operating Systems: Windows, Linux, HP-UX	Other: SVN, Rational ClearCase, LaTeX, HTML
+
+ “ASSEMBLING LARGE MOSAICS OF ELECTRON MICROSCOPE IMAGES USING GPUs”; Symposium on Application Accelerators in High Performance Computing (SAAHPC’ 09)[Accepted]
+AUTOMATIC MARKUP OF NEURAL CELL MEMBRANES USING BOOSTED DECISION STUMPS”; International Symposium on Biomedical Imaging (ISBI’09)[Accepted]
+
+Image Processing: Implemented algorithm for Image Mosaicing. Given set of image correspondences, the projection transforms were calculated and the final mosaic image was generated.
+Machine Learning: Implemented a cascade architecture based classifier for finding synapses in Rabbit retina images based on an
+ICCV'03 paper Learning a Rare Event Detection Cascade by Direct Feature Selection by Jianxin Wu et. al.
+Parallel programming using GPUs: Converted a C++ based image processing application to CUDA achieving 12x acceleration. The application assembles a mosaic of electron microscopy images. Work accepted at SAAHPC 2009.
+Computer Vision: Reconstructed 3D model of the Stanford dragon from Silhouette images obtained by rotation of the model. Advanced Computer graphics: Implemented “An Approximate Image-Space Approach for Interactive Refraction”(ACM Transactions on Graphics) by Chris Wyman using OpenGL and Cg shaders. In addition, have also worked on Bump Mapping, Shadows (projection, maps, and volumes), and Textures among several other Basic OpenGL topics.
+Computer Aided Geometric Design: Wrote a program that can display 3D polynomial B-spline surfaces using iso-lines and can also create a surface that interpolates to a grid of data with nodal interpolation.
+
+Image Processing & Computer Vision Software Designer
+NDT Technologies
+I designed a 2D measuring software device based on camera calibration system and camera image analyser. The work consisted of proposing and developing techniques and methods, resolving mathematical equations involved and programming the algorithms obtained in Matlab. The work was performed on a microcomputer using Windows XP Pro operating system.
+Scientific Software Designer
+I designed a set of programs pertaining to nondestructive testing systems. The two main of them were an acoustic wave simulation program and a 3D surface modeling program. The work consisted of developing the proposed methods and models, resolving the mathematical equations involved and programming the algorithms obtained in Matlab and C++. The work was performed on a microcomputer using Windows 2000 Pro operating system.
+Digital Signal Processing Software Designer
+I designed a set of programs performing Fast Fourier Transforms according to the Cooley & Tukey radix 4 and Cooley & Tukey split radix 4+2 algorithms. The work consisted of resolving the mathematical equations involved, programming the algorithms obtained in C & C++ and performing the program checks with Matlab and LiveMath software. The work was performed on a microcomputer using Windows NT operating system.
+Working for the DMR research and development department, I participated in the development of a new version of the DMR Workbench statistical software. This six-month assignment consisted primarily of developing the proposed statistical methods, programming the algorithms obtained in C and performing program checks. The work was performed on a microcomputer using the OS/2 Warp operating system.
+ 
+Programming languages: C & C++, Fortran 77 & Fortran 95 
+Programming tools: Matlab, Python 
+Software: LiveMath, Maple, Office, MathEQ
+
+
+ 2.7+ years of experience in image/video processing domain
+      integration of various image processing projects.
+    . Experience in image processing tools such as OpenCV,ITK,VTK,FLTK
+    . Filed US and Indian  patent  for  "AUTOMOBILE  ASSISTANCE  SYSTEM  FOR
+      OBJECT DETECTION AND TRACKING" as a developer.
+    . Worked  in  automotive  image  processing  domain  and  Medical  image
+      processing domain.
+
+   . Programming Languages:C,familiar with C++
+    . Software Development and Tools: OpenCV 1.1 and 2.1,
+      and 2008,Insight Tool Kit(ITK),Visual Tool  Kit(VTK),Fast  Light  Tool
+      Kit(FLTK).
+
+      Project Title            : Speed Limit and traffic signal  recognition
+      system
+      Environment            : GCC Compiler, Pentium-4 Intel Processor, Free
+      Scale IMX-51
+      Tool                          : Microsoft visual studio  2005,Open CV
+
+
+      Speed Limit  and traffic signal recognition system is a  project  that
+      can be used to detect and recognize speed  limit  signs   and  traffic
+      signal on both side of the road. A camera need to  be  placed  on  the
+      dash board of car. Speed Limit Recognition System  will  scan  through
+      the frames which is captured by camera,and detect the speed limit  and
+      traffic signal and recognize the speed  limit  and  alert  the  driver
+      accordingly.
+
+
+
+            :  Implementation  of  ITK  Goldstein  Phase

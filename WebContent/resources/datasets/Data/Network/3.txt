@@ -1,0 +1,69 @@
+
+Software Implementation of AES: Implementation of most secure and popular contemporary block cipher (Using C++). 
+ 
+CCNA in Routing/Switching
+NetmaxTechnologies
+2012
+Additional Information
+TECHNICAL SKILLS 
+Strong knowledge of Cisco Packet-Tracer, GNS3 
+ In Depth Knowledge of Routing Protocols (RIP, RIP2, OSPF, EIGRP, BGP) 
+ In Depth Knowledge of VLAN, VTP, Port Security 
+ Proficient with LAN/WAN topologies 
+ Implemented traffic filters using Standard and Extended access-lists, Distribute-Lists, and Route Maps 
+ In depth understanding of FTP, Telnet, HTTP, HTTPS, DHCP, DNS, SMTP, POP3,IMAP 
+ Knowledge of Wi-Fi/EDGE/EVDO, Voice over IP(VOIP), GSM/CDMA, UMTS/GPRS 
+ Knowledge of Computer networks, Network security, Data security and Cryptography, Wireless Networking, Data Communication, E-Commerce, C/C++, IT based security in Vehicles 
+ Proficient with AES, DES, Elliptic Curve, Diffie-Hellman, RSA cryptography technique 
+ 
+COMPUTER SKILLS 
+ MS WORD, MS EXCEL, MS POWERPOINT, MS OUTLOOK 
+ Windows XP/7/8/Vista 
+ Linux, Unix, Adobe Photoshop, PDF, Multimedia, Basic Troubleshooting 
+ 
+Senior network Specialist
+network of bank is based on Cisco and Juniper. 
+ 
+Responsible for technical duties of network staff. 
+Declaring the requirements of the network to the head of IT department and actively 
+participating in tender processes. 
+Defined, designed and implementing the link and device redundancy for high availability of datacenters. 
+Responsible for security of the financial transactions between branches, customers, 
+employees, other organizations and users with juniper firewalls and IDPs(SSG, ISG and 
+IDP 800 series), Cisco ASA and protocols like IPsec tunnels, DMVPN, VLAN and 
+VRF.in level of application using Kaspersky antivirus on servers and clients. 
+Defined, designed and implementing the network of backup datacenter as head of network team and configuring Cisco 6500 series(using VSS protocol) and Cisco Nexus 
+5020 series as core layer 
+ Implementing the transmission between two datacenters with Cisco 7206 routers based on Dark fiber, TDM links (STM1) and MPLS infrastructure with frame relay as layer 2 
+protocol and EIGRP protocol for layer 3 routing. 
+ Network technicians training.
+CCNA Routing and Switching
+June 2013 to Present
+Additional Information
+TECHNICAL STRENGTHS 
+ 
+ Network Protocols: OSI and TCP/IP Model, ICMP, IPv4 and IPv6, SNMP, NTP, NAT, 
+DHCP, DNS, VSS. 
+ LAN Network: 802.3, VLAN, VTP, STP, Bridging, 802.1q, HSRP, VRRP, GLBP. 
+ WAN Network: PPP, HDLC, Frame Relay, MPLS, VPLS, SDH, E1, STM1. 
+ Network Security: IPsec, VPN Tunneling, DMVPN, VRF, AAA, ACL, Zone based 
+firewalls. 
+ Routing protocols: RIP, EIGRP, OSPF, BGP. 
+ Devices: Cisco Routers and switches in Core layer( 6500, 4500, 7200, nexus), 
+Aggregation layer and access layer. Juniper Firewalls and IDPs, Cisco ASA, FortiGate 
+products. 
+ Software: Cisco IOSs and NX-OS, CCP, Solar winds, GNS3, Visio 
+ Network Engineer
+ enterprise network design, upgrade, optimization, monitoring and support 
+ Co-operated with appropriate department staff , peer venders and SP engineers to ensure projects completed on schedule, met all requirement and delivered on time 
+ network support as scheduled, escalated issues if required according to the set procedures and guidelines 
+ Implemented detailed configuration scenarios including routing(OSPF and BGP), switching(STP, VLAN, and HSRP), Network Security(Firewall, VPN, and IPS) 
+ Designed and deployed VPN among data centers and branches 
+ Reformed VRRP for High Availability on border routers 
+ Implemented stateful failover on a pair of Cisco ASA5520  
+ Configured OSPF, eBGP on SRX650 in two data centers to provide redundant connection to multiple vendors  
+ Performed multicast routing between inside network and 3rd party network with RPs
+ Responsible for planning, designing and developing high availability network for data centers, headquarter and branch offices 
+ Developed technical documentation and training materials for engineering-managed services as required, updated network documents including diagrams, specification and analyze reports 
+ Implemented multi-area OSPF in two data centers for the core and distribution devices  
+ 

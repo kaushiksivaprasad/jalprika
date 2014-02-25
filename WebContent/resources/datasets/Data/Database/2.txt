@@ -1,0 +1,30 @@
+1. Resume for database developer- Posted by Prateek Bajpai
+Career Summary-
+2+ experience as Database Developer.
+- Extensive experience in writing stored procedures, functions and views.
+- Extensive experience in writing and tuning complex sub queries, SQL, PL/SQL stored procedures, functions, and triggers.
+- Good experience in PL/SQL and ETL scripting and query optimization.
+
+Oracle Apps resume 
+Oracle plsql developer resume
+DBA resume 
+SQL DBA resume
+
+Technical Skills-
+
+- Reporting Tools: Business Objects, Crystal Reports
+- Designing Tool: Erwin Data Modeler
+- Database:Oracle10g/9i/8i, SQL Server 2005, MS Access 
+- Languages: SQL, PL SQL, Oracle Developer 2000, C,C++,HTML,Java
+- Operating Systems: Windows95/98/2000/NT, MS DOS, UNIX
+- Other Tools: TOAD, SQL Loader, SQL Plus, Query Analyzer
+
+Key responsibilities handled-
+
+- Created Oracle Tables, Views, Constrains, Synonyms, Sequences.
+- Managed performance and tuning of SQL queries and fixed the slow running queries in production with utilities like Explain, Trace, and Stored Outlines.
+- Worked heavily with relationship database models, schemas & entity-relationship diagrams (ERMs) to create technical/system design documents.
+- Developed complex reports -- multi-functioned, leveled and grouped, summary functionality in main reports providing detailed drilldown through On Demand Sub-reports, dynamic link labeling, complex functions, cross-tabs, charts, shared variables, imported parameters and record sets from stored procedures, conditionally suppressed sections, error handling/messaging, clean and attractive designs, user friendly with instructional ToolTips.
+- Worked with team on customizing the abilities of Crystal Enterprise such as exporting, previewing, printing and emailing reports.
+- Load the data from MS Excel to Oracle Table and Oracle table to MS Excel.
+- Loaded the data using the SQL loader, Imports & UTL files based on file formats.

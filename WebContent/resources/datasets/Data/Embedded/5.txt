@@ -1,0 +1,48 @@
+Jianping (James) Huang
+Embedded software developer
+
+Westmount, QC
+10+ years engineering experience with embedded systems development.? 
+Familiar with development embedded firmware & RTOS (e.?g.?Linux/uClinux, VxWorks, uC/OS-II,Chibios,non-OS?)  
+Experience with kernel modules and device drivers development  
+Experience with advanced processors (ARM, PowerPC,ColdFire) as well as lost cost micro-controllers (8051, PIC) 
+Strength developing boot-loaders (U-Boot) and low-level device drivers 
+Experience with embedded communication protocols such as UART, I2C, USB, SPI and RS485,CAN-BUS 
+Extensive knowledge of wireless networks, Smart Card Technology and magnetic stripe cards, Modem AT Instruction, GSM/CDMA 
+Familiar with a wide range of network protocols such as TCP/IP, PPP, SLIP and Ethernet  
+Embedded software developer
+PBSC URBAN SOLUTIONS - Montréal, QC
+January 2013 to February 2014 
+Project: Responsible for development on kiosk device driver, application/library and DP (Docking point) firmware for several cities 
+Duties include developing device driver, and firmware ,trouble shooting, implement documentation. 
+• Designed and implemented Kiosk printer driver on Embedded Linux platform. 
+• Developed and optimized Sankyo CCR(Credit card reader) , Paypass device driver on the Embedded Linux OS.  
+• Developed Docking point firmware on ARM Cortex M3 platform, bases on Chibios RTOS 
+• Rebuilt and Customized the Linux kernel 2.6 and rebuilt the CDMA device driver.  
+• Developed GPSW( GPS + Synapse wireless) firmware.
+ 
+Software Environment: GNU C, LUA , ARM gnu tool chain, ARM Assembly Language, Ubuntu 12.04 ,Git ,SVN, Python
+EMBEDDED SYSTEM ENGINEER
+Fujian Landi Commercial Equipment Co., Ltd - FuZhou, CN
+February 2009 to November 2011
+LANDI’s products mainly cover POS terminal, IC card reader, financial unattended terminal and payment-related software.  
+ 
+Project: Responsible for the entirety of EPOS (Electronic Point of Sale ) development on two platforms: EPT-56 series (uC/OS, ARM) and E5 serial (Linux, ARM). Duties include developing devices driver, porting U-Boot.
+Designed and implemented RF (RC500) modules driver on Linux with E5 serial platform. 
+Ported U-Boot on E5 Serial platform, Implement Nand flash boot and auto SD card backup. 
+Designed and implemented China Merchants Bank . Programmed them in ANSI C and EPT-SDK 
+Designed various Smart Card ( MIfare-One, Desfire, PBOC 2.0/EMV CPU) transactions Base on IC Card Standards of China. Programmed them in ARM C and Keil C. 
+Designed and implemented embedded applications on public transmit terminals.  
+ 
+? Communicated and consulted with the customer, analyzed requirements for a real-time payment business 
+? Implemented the server-side application in Linux, using c/c++, C Shell and Pro*C
+? Designed and implemented communication protocols based on ISO 8583 over TCP/IP, RS232 and RS485 
+? Ported uC/OS and developed drivers on Desktop POS Terminal. 
+? Developed Device Drivers on Embedded security modules.  
+? Implemented Smart IC Card Reader's application, using Keil c Base on 80C51. 
+ 
+Software Environment: C/C++, visual studio 2008, ads 1.2,Arm gnu tool chain, Assembly Language Programming for ATMEL Arm 9 serial. Red hat fedora, KEIL C Micro controller IDE and compiler
+? Maintained, developed, analyzed and tested the server-side Multithreading application using Visual C++, DAO, and SQL-Server 
+? Implemented Smart Card transaction's terminal base on 80c51, programmed in Keil c, Including Drivers and Application. 
+? Developed KDE and OMRON Card Reader's drivers and Epson printer drivers. 
+Software Environment: C/C++, visual studio 6, Delphi 7.0, C++ builder 6.0, visual Basic 6.0, KEIL C Micro controller IDE and compiler.

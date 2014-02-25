@@ -1,0 +1,70 @@
+ Configuration and deployment of Wimax devices 
+ Responsible for selecting & providing communicating medium such as Wimax, Optical fiber, Microwave, CDMA, ISDN or VSAT 
+ Responsible for calculating bandwidth requirement for any specific site 
+Providing and determining the number of E1 links to be provided on the sites 
+Determining the availability of Access network
+Network Administrator
+EDF Services
+November 2005 to February 2006
+As Network Administrator I was responsible of setting up the entire network providing following services 
+ 
+Connecting all the three floors with a centralized server providing different services 
+Setting up of Domain controller 
+Providing DSL connectivity to all the nodes 
+Setting up of Mailer daemon server
+Project Engineer
+Responsible for providing an efficient, robust and reliable Voice over IP (VoIP) communication setup that can be used to provide wireless Voice communication in the areas affected by disaster. 
+ 
+ Responsible for configuring Cisco Aironet Wireless Access points 
+ Configuring Extreme layer 3 switches with VLAN tagging 
+ Configuring SIP server 
+ Configuring RADIUS server 
+ Testing QoS support to both voice and data packets
+Education
+Master in Internetworking
+Master's Thesis (Hotspot - OpenNet Solution) Master's thesis research performed at KTH in connection with Saami Network Connectivity project (http://www.snc.sapmi.net/). It involved evaluation, design and implementation of a Hotspot Wireless test-bed that could be able to provide a workable ground for the Delay Tolerant Network (DTN)
+NAVINI WiMAX RIPWAVE-MX Base Station Installation & Commissioning Training, Abu Dhabi, U.A.E 
+Nomadix Access Gateways Training at Abu Dhabi, U.A.E 
+CCNA (Cisco Certified Network Associate) 
+CCDA (Cisco Certified Design Associates) 
+JNCIA-ER (Juniper Networks Certified Internet Associate) 
+ RSSSE (Cisco Routing & Switching Solution for System Engineer) 
+ AWLANSE (Advanced Wireless LAN for System Engineers) 
+ FOUNDSE (Cisco Foundation Express for System Engineer) 
+ Cisco Lifecycle Services Advanced Routing and Switching 
+ LCSE (Cisco Lifecycle Services Express) 
+ Optical fiber splicing, jointing, laying and OTDR
+NETWORK SERVICES 
+ 
+NGN 
+NAT (Network Address Translation) 
+ DNS (Domain Name Service) 
+ DHCP (Default Host Configuration Protocol) 
+ SNMP Network Management 
+ 
+NETWORK EQUIPMENT 
+ 
+ Cisco Routers 
+ Network Sniffer Ethereal 
+ Cisco Catalyst Switches with VLAN 
+ Extreme networks Layer 3 Switch 
+ Cisco Aironet Wireless Access Points 
+ Mediatrix PSTN gateway
+
+Junior Network Engineer
+Performed sub-netting on Cisco router 2691 
+Design, Installation and configuration of Network 
+ 
+Performed troubleshooting of network connectivity 
+ Performed Access-list on Cisco router 2601 
+ Implemented traffic filtering on Cisco routers using software firewalls(extended access-list)
+Customer Technical Service
+ Provided telephonic and on-line customer support to existing customers and new users. 
+ Prepared daily documentations by following procedures and fulfilling project initiatives and providing reports to managers. 
+ Experienced in submitting invoices and resolving complex technical and process issues 
+ Solid experience addressing server problems by clearing up limitation errors with design system solutions and recommendations 
+Managing and Troubleshooting in IPv4: Created and supported/maintained the network using GNS3. Fixed the problems regarding connectivity of the network running on IP version 4. 
+ 
+Inter VLANs and Sub-netting: Created Virtual LANs using GNS3 within the switch to increase the security among different departments of an organization and performs sub-netting (VLSM) to reduce the wastage of IP addresses and Implements Redistribution on Cisco router 
+ 
+Cracking a Vigenere Cipher: For a given piece of Ciphertext generated with vigenere cipher, find its Encryption key and corresponding Plaintext(Using C++). 

@@ -1,0 +1,61 @@
+
+A Brief History of Documents and Writing Systems.- Machine-printed Character Recognition.- Handprinted Character
+
+ and Word Recognition.- Continuous Handwritten Script Recognition.- Middle Eastern Character Recognition.- Asian Character 
+
+Recognition.- Graphics Recognition Techniques.- An Overview of Symbol Recognition.- Analysis and Interpretation of Graphical Documents.- Logo and Trademark Recognition.- Recognition of Tables and Forms.- Document Creation, Image Acquisition and Document Quality.- Processing Mathematical Notation.- Document Analysis in Postal Applications and Check Processing.- Analysis and Recognition of Music Scores.- Analysis of Documents Born Digital.- Image Based Retrieval and Keyword.-  Spotting in Documents.- Text Localization and Recognition in Images and Video.- Online Handwriting Recognition.- Online Signature Verification.- Sketching Interfaces.- Datasets and Annotations for Document Analysis and Recognition.- The Evolution of Document Image Analysis.- Tools and Metrics for Document Analysis Systems Evaluation.- Imaging Techniques in Document Analysis Processes.- Page Segmentation Techniques in Document Analysis.- Analysis of the Logical Layout of Documents.- Page Similarity and Classification.- Text Segmentation for Document Recognition.- Language, Script and Font Recognition.- Part A, Introduction, Background and Fundamentals.- Part B, Page Analysis.- Part C, Text Recognition.- Part D, Processing of Non-textual Information.- Part E, Applications.- Part F, Analysis of Online Data.
+Evaluation and Benchmarking.
+foreign exchange trading
+image classification
+pattern recognition
+CIS sensor
+RMB image processing
+RMB images
+RMB serial numbers
+digital image processing
+image acquisition
+image processing technology
+linear perception
+paper currency classification system
+pattern recognition
+recognition accuracy
+IEEE TERMS
+Character recognition
+Computational Intelligence Society
+Digital arithmetic
+Digital images
+Image processing
+Image recognition
+Image sensors
+Paper technology
+Pattern recognition
+Sensor systems
+ unique and flexible interface for the comprehensive visualization, exploration and analysis of 2D gel data. It provides 
+powerful and innovative solutions to shorten the path from 
+data acquisition to protein information, both for conventional 2-DE and DIGE
+Expertise with Matlab (including MEX, GUI development, and OO techniques), particularly in rapid 
+prototyping and visualization for computer vision, image processing, and machine learning.
+ Also pro?cient in C/C++ (and OpenCV), with focus on object-oriented, modular design. 
+Image Processing for improvments of H264 compression within the R&D team.
+Development of an algorithm for image filtration (in Matlab and then C++) for easing H264 compression. The objective being the improvement of compression rate at constant image quality.
+Study and understanding on H264 compression process.
+3D Reconstruction with Matlab
+3D reconstruction by stereoscopy with R&D team. 
+Engineer in Image Processing and VIsion.
+TELECOM St Etienne (September 2007 - September 2010)
+Informatic Engineer with image processing option.
+Theorical and practical courses in Physics, Mathematics and Informatic.
+Signal/image/video processing, analysis and restoration; statistics; applied mathematics; computer science; biomedical imaging; inverse problems; estimation and detection theory; wavelets; MATLAB; ImageJ; Java; C; C++; HTML; multithreading; Office; iWork; LaTeX.
+A CURE for Noisy Magnetic Resonance Images: Chi-Square Unbiased Risk Estimation, IEEE Transactions on Image Processing, 2012, in press.
+2. F. Luisier, T. Blu, M. Unser, Image Denoising in Mixed Poisson-Gaussian Noise, IEEE Transactions on Image Processing
+M. Unser, Fast Interscale Wavelet Denoising of Poisson-Corrupted Images, Signal Processing, 
+SURE-LET Multichannel Image Denoising: Interscale Orthonormal Wavelet Thresholding, IEEE Transactions on Image Processing
+The SURE-LET Approach to Image Denoising, IEEE Transactions on Image Processing,
+Developed statistical image processing algorithms for reducing additive white
+Gaussian noise.
+o Acquired time-lapse confocal fluorescence microscopy images.
+
+Develop statistical image processing algorithms for improving the quality and
+accelerating the acquisition of magnetic resonance images.
+Travel Grant, IEEE International Conference on Image Processing (ICIP'10), Hong Kong, 2010.
+-

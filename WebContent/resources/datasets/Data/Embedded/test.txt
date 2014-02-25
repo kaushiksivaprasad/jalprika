@@ -1,0 +1,71 @@
+Senior Software Engineer
+Bimmer Retrofit Inc - Montréal, QC
+August 2013 to Present
+Responsibilities 
+Develop the device driver base on the embedded operating system (ARM Cortex-M3 NXP LPC1768), receive and translate the HDMI into a fully serial stream.  
+ 
+Accomplishments 
+Maintained chip low level driver(UART/SPI/I2C/INT) and peripheral device driver(ADV7611, DS90UR124Q/DS90UR241Q), optimized system performance profiling and power 
+Develop USB functions and relate debugging features in embedded system.
+Senior Software Engineer
+TCL Multimedia Technology(HK 01070) - Shen Zhen,China
+August 2012 to April 2013
+Develop the middleware base on the embedded operating system Linux (Mstar 6328), develop Teletext parser and display, HbbTV 
+Accomplishments include: 
+Develop Teletext module including package parser, date manager , and display base on directFB. Integrate third-party software iWedia HbbTV and CI+ module
+Senior Software Engineer
+Haluya Technology - Shen Zhen, China
+March 2006 to August 2012
+Develop STB software based on the Renesas Emma series. Develop and maintain the software based on the embedded operating system ITRON. Designed architecture including requirements definition, main modules design, tier structure development,and user interface definition. Evaluated and recommended technologies including UI component tools set, testing and Version Control tools. Made presentation to management and provide the competitive total STB solution for Europe, Middle-east, and Asia markets.  
+ 
+Project Profile 
+DVB-Terrestrial Set-Top Box FTA PVR 
+Client: Giec, Shen Zhen, China 
+End client: BustBuy, Spain 
+Hardware Platform: Renesas Emma3LHD 
+Accomplishments include 
+Implemented SI/PSI parser engine for DVB stack, implemented Logical Channel Numbering(LCN) support. Construct the base module including PVR module, TimeShift module and Multimedia player module. Design UI module by Embedded Wizard. Trip to Spain for the DVB-T signal disturbance problem  
+DVB-Terrestrial Set-Top Box FTA for Nordic market 
+Client: Jiuzhou, Shen Zhen, China 
+End client: Strong, Denmark 
+Hardware Platform: Renesas Emma3SLHD 
+Accomplishments include 
+Implemented special LCN engine for Nordic market. Customer UI design for Strong. Designed, and implemented OTA(Off the Air) module. Trip to Denmark for the field testing. 
+DTV module in LCD TV with CI+ 
+Client: Videocon, India 
+Hardware Platform: Renesas Emma2 
+Accomplishments include 
+Implemented DVB stack main module including tuning, channel list manage, SI/PSI parser. Implemented demux thread, handled frontend. Implemented EPG parser engine, EPG memory manager and navigation layer. Definition and design communication format with the main system
+Software Engineer
+Skyworth Multimedia Limited(HK 00751) - Shen Zhen, China
+July 1999 to March 2006
+Develop and maintain the TV software by many IC solutions, including Philips, Pixelworks, Sanyo, Toshiba, MTK, etc. 
+ 
+Project Profile 
+LCD TV for American market 
+Hardware Platform: Pixelworks 1306 
+Accomplishments include 
+Implemented tuning and channel play module. Handled diagnostics for the devices Audio Decoder (with BTSC), Video Decoder, and CC decoder. Design UI module by Pixelworks tool. Configured the GPIO for power control, tuner, ect. 
+LCD TV for Globe market 
+Hardware Platform: Philips LOCII 
+Accomplishments include 
+Configured the comb filter and video decoder for PAL, NTSC, SECAM. Implemented Teletext and VBI parser module
+Education
+Bachelor of Engineering in Electronic Information Science and Technology
+Jiangsu University - Zhen Jiang, Jiang Su, China
+1995 to 1999
+Skills
+?	More than 10 years working experience in Embedded Software in Video Audio broadcasting area
+Additional Information
+SUMMARY OF QUALIFICATIONS 
+? 10+ years in software development using various languages methodologies and frameworks, skilled at progressing from problem statement to well-documented designs 
+? Proficient in software development in C/C++ for embedded systems under the ITRON operating system(RTOS) 
+? Familiar with DVB, ATSC, ISDB,PAL,NTSC, MPEG, H.264 standards 
+? Proficient in Graphical User Interface (GUI) development in Embedded Wizard and QT 
+? Some knowledge of Java programming language (beginner).  
+TECHNICAL EXPERTISE 
+Language C language, C++, Assembly, Visual Basic 
+Concepts MPEG2, MPEG4, H.264, DVB, ATSC, PAL, NTSC, ISO/IEC 13818-1, ETSI300468, D-Book 
+OS ITRON, embedded Linux 
+Software Green Hill, Embedded Wizard, QT, TSReader, VisualSVN, Word, Excel 
+Platform/Chipset Mstar 6328, Renesas Emma 2&3

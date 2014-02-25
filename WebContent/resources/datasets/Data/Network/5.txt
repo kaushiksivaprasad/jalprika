@@ -1,0 +1,77 @@
+
+Projects: 
+ Travelex Global Business Payment - Sale to Western Union. 
+ Designed and implemented new network for North American sites. 
+ Installed and configured 3750X core switches, 2960 access switches and 3925 routers for dual MPLS WAN. 
+ Installed and implemented Security Infrastructure using CheckPoint Firewalls. 
+ Prepared Cisco VoIP solution proposal. 
+ Prepared Business Case for Core Network upgrade in Data Center sites and Branch offices for multiple North American and European sites. 
+ Prepared Business Case for PBX-to-Cisco Call Manager migration. 
+• Prepared plan to upgrade existing CUCM ver6.1, Unity ver5, IPCC ver5 to version CUCM ver8.x, UNITY Connection ver8.x and UCCX ver8.x. 
+ MCS servers to be upgraded to Cisco UCS C-Series Servers. 
+ Existing Cisco 3800 and 2800 series routers to be re-purposed as Voice Gateways. 
+Data network design included Cisco 3800/3900 routers for dual MPLS links, Cisco 3750X, 3560 & 2960 LAN switches and CheckPoint Firewalls. 
+? Design and implementation of Data & Voice Infrastructure for a branch office in NY (50 users). 
+• Data network design included Cisco 2911 routers for dual MPLS connections, Cisco 2960 PoE LAN switches and CheckPoint Firewalls. 
+• Voice solution included AVAYA CM6 (S8300 Server and G430 Media gateway). 
+? Travelex Currency Exchange Retail Stores at Pearson Airport Terminal 1. 
+? Managed IT & Telecom portion of the project. 
+? Connectivity to Toronto datacenter. 
+? Security solution to meet Corporate and PCI compliance standards. 
+? Coordinated with local Telco's for DSL and analog lines installation. 
+? Wireless Infrastructure Implementation. 
+? Managed Juniper Wireless installation in various offices. 
+? Configured the wireless controller, Juniper firewall and APs for network connectivity. 
+ Setup DHCP scope for wireless clients.
+Telecom Analyst
+ Fulfilled internal orders for Cisco Phones and Unity Voicemail accounts. 
+ Programmed Cisco phones and Cisco Unity voicemail using Unimax 2nd Nature. 
+ Resolved client issues submitted via Peregrine Service Center. 
+ Maintained and Audited Telecomm Inventory using etelesolv's TeleManager (a telecom management tool).
+Network Analyst
+ Avaya VoIP PBX Maintenance and Support. 
+ Nortel CS1000 PBX Maintenance. 
+ Network Monitoring using CA Spectrum. 
+ Contacted Verizon and AT&T NOC for voice and data circuit related issues. 
+ Core voice and data network upgrade (HQ and Branch offices). 
+ Migrated from Cisco 4000/5000 to 3800 series routers and 3750 series switches. 
+ Configured routers and switches for data and voice networks. 
+ Configured provider MPLS circuits for connectivity to corporate backbone. 
+ Avaya VoIP implementation. 
+ Configured network according to Avaya requirements. 
+ Data and voice network upgrade (Branch office). 
+ Installed and configured 3800 routers and 6509 switch for data and voice networks. 
+ Configured provider MPLS circuits for connectivity to corporate backbone. 
+ Configured network for Nortel VoIP implementation. 
+ Upgraded all production routers and switches to corporate standard IOS image. 
+ Inventory all routers and switches. 
+ Documented network diagrams and backed up router & switch configurations. 
+ Created change control document for approval from Change Management Committee. 
+network Analyst
+Provided Level I & II support to managed services clients for Cisco Call Manager 4.x and Unity voicemail. 
+ LAN and WAN monitoring & management, utilizing various network monitoring tools, to monitor availability, performance, detect potential problems, troubleshoot and resolve network issues. 
+ Coordinated with customers and Cisco TAC for resolving network issues quickly and help expedite the TAC case and/or RMA process. 
+ Provided training and guidance to new hires and interns. 
+ Prepared monthly reports to analyze customer SLA stats. 
+Network Design - Voice
+ Unified Communications Cisco Unified Communications Manager, Cisco Unity Voice Mail / Unified 
+Messaging System, Voice Gateways, MGCP Gateways, H323 Gateways, Personal Assistant, UCCX Express, Voice gateways, SRST, QoS, Knowledge of Cisco CER, Voice Recording Applications, and PBX Integration. Call Manager Express and Unity Express for branch office solution, Unified Communications Solutions Design, Unified Presence, Mobility, WebEx, Meeting Place and knowledge of Video Conferencing solutions CUVA. 
+ AVAYA IP PBX Experience with Avaya VoIP and voicemail systems 
+ VoIP Protocols/interfaces FXS, FXO, ISDN PRI, SIP, MGCP, H.323, RTP, SBC (CUBE) 
+ Telephony Systems PBX, Call Manager, MS OCS 
+ Borderless Networks Knowledge of Cisco Borderless Network concept 
+ Firewall/Security CheckPoint Firewall R71 & Smart Dashboard, RSA Security 
+ Web 2.0 and 3.0 Web 2.0 and 3.0 understanding and consider myself an end user. 
+ Video Conferencing Knowledge of Cisco TelePresence & MeetingPlace system 
+ Design Skills Knowledge and understanding of Cisco PPDIOO methodology, 
+Understanding of Cisco IP Communications Project life cycle. 
+Services, LDAP, Proxy Server, ISA Server. 
+ Network Services DHCP, WINS, DNS, RAS, RIS, Relay Agent, etc. 
+ Virtualization VMware ESX Server, VMware Server and Workstation, GNS3 (Cisco Router simulator), knowledge of Cisco Unified Computing System 
+ Routers & Switches Cisco 2600, 2900, 2800, 3900, 3800, 35xx, 37xx, 45xx, 65xx, 76xx etc. 
+ Routed Protocols IP 
+ WAN Technologies MPLS, Metro Ethernet, Frame Relay 
+ Network Protocols TCP/IP, RIP, UDP, OSPF, IGRP, EIGRP, HTTP, IMAP, POP3, NTP, 
+FTP, TFTP, PPP, BGP, MPLS 
+ Network Monitoring & Solarwinds Orion, Solarwinds NCM, CA Spectrum, CA eHealth, What's Up Gold, Management Cacti, Kiwi CatTools, Packet capturing tools 
+ 

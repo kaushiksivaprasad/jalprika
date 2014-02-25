@@ -1,0 +1,69 @@
+Looking for a position as n Network Engineer in an organization where I can get a proper chance to prove my stated skills as well as a chance to push my career in this field effectively utilizing my skills, abilities and previous experiences.
+Junior Network Engineer
+Responsibilities: 
+Responsible for implementation, troubleshooting, maintaining operations of network systems. 
+Investigating, diagnosing and solving computer software and hardware faults 
+Build, maintain and examine core network services including anti-virus and backup 
+Performs routine network maintenance checks as well as configure and manage printers, copiers and other miscellaneous equipment. 
+5Participating in a rotating 24*7 on-call rotation.
+Education
+Telecommunications Systems
+In depth knowledge of Networking, Hardware, Software and Windows. 
+Familiarity with resolving remote connectivity issues, LAN/WAN, DNS, TCP/IP and web services. 
+Experience in configuring IPSec with VPN, ACL, Gateway Firewalls and knowledge in Network Security issues in wireless systems WEP, WPA and WPA2. 
+Configure RIP, SIP, OSPF, BGP, MPLS, HSRP, Frame Relay and NAT. 
+Excellent Knowledge in IPSEC VPN, GRE over IPSEC, IPS and Firewall ( Stateful inspection) 
+Strong Knowledge of networking Technologies and protocols gained through practical work during course work. 
+Good knowledge in design of network architecture protocols, Internetworking, bridging, routing, encapsulation. 
+Basic configuration of LAN, VLANs, DNS and DHCP and managing Traffic with Access Lists. 
+Operating systems Linux, Unix, Windows, 
+Tools used Wire Shark, OPNET IT guru, Net backup, VMware
+Master in INTERNETWORKING from SWEDEN 
+Course on Global Entrepreneurial Leadership from Stanford University by videoconferencing 
+Experience of working with Ericsson, providing a Wireless VoIP solution 
+Installed and Configured Extreme Network Summit 45 SI Layer 3 Switches with VLANs 
+Implemented TCP/IP Networks with DNS, DHCP, NAT and Dynamic Routing using OSPF 
+Installed and configured 802.11a/b/g Wireless LANs using Cisco Access Points 
+fiber optic laying, jointing, splicing & OTDR 
+Installed and configured Cisco Routers, Firewalls & Switches 
+Sound knowledge & understanding of ISDN, NGN, Soft Switches and Access Network 
+Technical know how of Mobile networks (GSM, CDMA) & working knowledge of WLL 
+Configuring and Hands on Experience with BGP 
+Manager IP and Data Network
+ 
+Solution architecting and operation of IP/MPLS back bone connecting all major cities over a ring topology. 
+Worked closely with various engineers in designing the "Release 4" architecture, ensuring essential traffic such as SIGTRAN, User Plane and Control Plane are integrated into the IP/MPLS Backbone with proper QoS marking. 
+Planned and implemented GPRS/EDGE project which provides first ever country wide fastest data coverage 
+Led the project and successfully implemented GRX connectivity with all redundancies and testing for data roaming 
+Identify and gather requirements for all IP nodes, and translating them into technical solutions for DRP (Disaster Recovery Project) 
+Design and Implemented redundant connectivity with RIM for Blackberry subscribers 
+ Managing concurrent multi-vendor large/complex Telco-grade projects/solutions and coordinating with cross-functional teams 
+Part of the team which is working to achieve ISO certification, for Technical department, by transforming planning and daily operation task in to standard operating procedures (SOP) 
+Compiled RFP and evaluated the response for URL and content filtering project. 
+Got complete Audit done for IP & Datacom department by a France based third party audit firm 
+Designed and implemented first ever single data charging gateway solution for Roshan 
+Determined need for capacity increase for sites, national and international interconnects by analyzing current and forecasted voice traffic 
+ Designed and managed the overall Cisco IP network for GSM including GGSN, MMSC, etc - maintaining 99.9% uptime and efficient delivery of packet data. 
+ Responsible for the design, provisioning and maintenance of VoIP international gateway - reducing operating costs by 65% and generating $0.5 million monthly in additional revenue. 
+ Managed and administered the company's private and public IP address requirements and corporate/GSM data network. 
+Supervised 10 engineers, including performance management and development plans. 
+ Worked closely with management, finance, engineering and procurement to prepare annual CAPEX and OPEX budgets. 
+ Compiled weekly and monthly reports on network performance, including network outages. 
+ Prepared and presented progress reports, outstanding issues, and budgetary information to senior management
+Network Engineer
+Emircom is one of the leading System Integrator & Cisco GOLD partners in Middle East. I joined Emircom as a Network Engineer, involved on various projects from providing data communication using state of the art technologies such as Routing & Switching, Wimax, WiFi, Cisco products and other Access medium. 
+ 
+ Involved in developing design document, network infrastructure, BOQ, implementation and testing for various projects. 
+ Involved in expansion of PIE (Pakistan Internet Exchange) which includes CRS and 7600 routers at 46 locations, countrywide. 
+ Involved in PIE Expansion for PTCL(Pakistan Telecom Company Limited), the biggest telecom operator in Pakistan, involving BGP and MPLS 
+ Implemented IP Telephony using Cisco 2800 router, Cisco Call Manager Express and Cisco Unity. 
+ Perform multiple site surveys using Cisco Aironet Wireless Utility for WiFi Projects 
+ Currently involved in providing Data communication solution and products to various organizations 
+ Configuring & troubleshooting variety of Cisco devices.
+Project Coordinator Communication & Network
+Diallog CDMA & Broadband
+March 2006 to September 2006
+I joined Diallog as Project Coordinator Communication & Network on their ongoing WiMAX based project. My responsibilities at Diallog includes 
+ 
+Selecting and providing communication medium between different sites through out Pakistan 
+Designing of Wimax based network, along with the selection of Wimax complaint product. 

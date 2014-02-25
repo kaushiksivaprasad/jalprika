@@ -1,0 +1,74 @@
+
+OBJECTIVE
+
+
+Master of Science in Electronics and Communications Engineering with  strong
+Design and Programming skills in  Embedded  Systems,  seeking  a  full  time
+Entry Level position or Internship in a fast paced and  dynamic  Electronics
+company.
+
+SUMMARY OF QUALIFICATIONS
+    . Designing Analog & Digital systems
+    . Developed multiple  real time application systems
+    . Competency in Embedded C, C/C++, Assembly language, VHDL
+    . Worked on various Controller series of Intel, ARM7, ARM9, TI, PIC and
+      ATMEL.
+    . Familiar with different RTOs like Vxworks and FreeRTOS.
+    . Experience in interfacing and implementing device drivers for serial
+      communication buses (RS-232/485, I2C, SPI), wireless modules (GSM,
+      Bluetooth), GPS (navigation), A/D-D/A convertors, LCD, PWM, Sensor.
+    . Familiar with Matlab, MPLAB, Keil µVision 4, Eagle, Proteus
+    . Knowledge of using tools like Oscilloscopes, multi meters, Frequency
+      generator and different compilers, assemblers, linkers.
+
+EDUCATION
+    . Master of Engineering in Electronics and Communication, GTU
+                July,2012
+
+PROFESSIONAL EXPERIENCE
+
+. Advised multiple student teams on projects and offered consultancy to
+  local industry on design and development of embedded hardware/software.
+. RFID based attendance system, GSM based notice board and Home security
+  system based on motion camera are some of the running projects.
+
+Potent Embedded Solution
+                            (May'11 to May'12)
+Intern and Embedded System Engineer
+Potent Embedded Solutions, is a product engineering, embedded systems and
+solutions provide company in Gujarat since 2007.
+
+ . Developed  a  cost  effective  vehicle  monitoring  system  that  informs
+   passengers about the arrival  time  of  their  respective  transportation
+   vehicle at their particular stations on basis  of  GPS  and  GSM  without
+   using internet as a single person.
+ . Completed report by  reviewing  multiple  resources,  consulting  various
+   industries under the guidance of PHD personnel.
+
+ .  Designed LPC2148 (ARM-7) controller based system  for  both  transmitter
+   (Bus) and Receiver (Home) sides for monitoring the vehicle.
+
+ . Developed Communication  based  object  control  system  to  control  all
+   appliances through central  computer  in  order  to  minimize  the  power
+   consumption and avoid misusing of company appliances.
+ . Designed a circuit using PIC-18F4520 to control different devices from
+   one location by computer.
+ . RS-485 was used to communicate with more than one device.  PWM concept is
+   used to control the speed of the devices & LCD was interfaced for user
+   convenience.
+ . Developing Tool:  MPLAB IDE
+
+COMPUTER SKILLS
+
+ . Tools  : MPLAB, Matlab,  Keil µVision 4, Eagle, Proteus
+ . Design: Analog & Digital systems , drivers for UARTs(RS-232, RS-485),
+   I2C, GPS,GSM, PWM, Timers, A/D or D/A converters, LCD, Sensor
+ . Languages:  VHDL, Assembly, C/C++, Embedded C, SQL (Oracle 10g/11g), C18
+ . Use of Microsoft Office suit including Excel, Power Point, Projects,
+   Visio, SharePoint
+
+ACHIEVEMENTS
+ . AIT Award for Excellence in Teaching Electronics and Communication
+   Engineering - 2012
+ . Presented a paper on "Design of Public Transportation Vehicle Monitoring
+   System Based on GSM-GPS", PEPCCI-2012.

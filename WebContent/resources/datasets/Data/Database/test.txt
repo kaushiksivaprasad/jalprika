@@ -1,0 +1,70 @@
+Kaushik Sivaprasad
+
+Apt.no-905, 2055 St-Mathieu Street, Montreal QC,
++1-(514) 430-7630.
+kaushik_sivaprasad@hotmail.com
+LinkedIn: http://www.linkedin.com/pub/kaushik-sivaprasad/71/907/7b6
+GIT: https://github.com/kaushiksivaprasad
+
+
+PROFILE
+•	2 yrs. of Software Engineering experience in designing, developing and maintaining J2EE websites for Multi-National Companies.
+•	Hands on experience in a wide array of programming languages, software development methodologies and software engineering tools.
+•	Has a crave to learn new programming languages, algorithms, frameworks etc., to implement a given task in an efficient manner.
+•	Programming Languages: C++, Java (J2EE), Python, Web technology (HTML, jQuery, JavaScript, CSS), Database (SQL/PL-SQL), XML.
+•	Programming APIs: JSF, JPA, Liferay Portal Framework.
+•	Applications: Microsoft Office VS 2010-2013, Eclipse, NetBeans.
+•	Operating Systems: Windows OS.
+
+
+EDUCATION
+Master of Applied Science – Computer Science	Expected September 2015
+Concordia University, Montreal, QC	
+•	Member of the Institute for Co-operative Education
+•	CGPA : 3.7/4.3
+
+
+Bachelor of Engineering –Electronics and Instrumentation	2011
+Anna University, Chennai, India.	
+
+
+PROFESSIONAL EXPERIENCE
+	Systems Engineer		Jul 2011– Jul 2013
+	Infosys Ltd, India	
+•	Responsibilities: Requirement analysis, preparing design document, coding, performing unit test cases, analysing whether the code has met the requirement and also bug fixes in the later part of the development cycle.
+•	Developed portlets using Liferay Portal framework, played a significant role in assisting the team to support multiple themes and other UI aspects of the website and also helped the Team in developing  resource efficient  modules (both in UI and JAVA).
+•	Had been the one-stop destination for any research intensive tasks. The tasks that I was involved were: dynamically render portlets from another page inside another portlet of another page, CORS, export to excel and cross browser support.
+•	Developed common project specific utilities with which there was a significant reduction in the developmental effort. These utilities included an animation plugin, hover plugin (UI end) and utility classes for exporting to excel, parsing html and xml files, encoding the html content before rendering (JAVA end).  
+•	Technologies: J2EE, Frameworks (Liferay), UI (HTML, JavaScript, jQuery, CSS), XML, Web Services.
+
+
+
+
+
+
+
+
+TECHNICAL EXPERIENCE
+	Search Engine (Academic Project - 2 Weeks)		2013
+Concordia University, Montreal, QC
+•	Had to implement an AI based search engine as part of the requirements of Information Retrieval and Web Search course. This project was a team project consisting of 2 members. 
+•	I had to develop a crawler that crawls 1000 web pages of Concordia.ca domain and store those webpages to the hard disk. I had also developed a customized and an efficient clustering methodology based on K-Means clustering algorithm. A probabilistic searching functionality based on BM-25 algorithm was also implemented to search the user given query against the final index after clustering.
+•	This project stood out when compared with our peers, as we had developed this project in an enterprise fashion utilizing loggers and configuration files, which when altered modifies the functionality of the project. 
+•	The project was lauded by the professor for an efficient implementation of K-Means clustering. And the major aspect of the project that was well received was that it gave results in less than a second in a normal laptop computer, which gives a brief glimpse of how efficiently the project has been implemented.
+•	Technologies : Core Java, Frameworks (WebSphinx, Jsoup) 
+	
+	Web Service Composition (Academic Project - 2 Weeks)		2013
+Concordia University, Montreal, QC
+•	This project was implemented as a part of Services Computing course. In this project, we had to compose many web services for the given input and output parameters. This project was also a group project consisting of 3 members. We were also asked to test our program against WSC 2009 data sets to check whether our code was working for all the data sets.
+•	The most distinguishing factor was that we had used a modified and efficient algorithm based on the research paper ‘Efficient Web Service Composition using Planning Graph - Xianrong Zheng and Yuhong Yan’. The efficiency improved leaps and bound when we incorporated backtracking algorithm due to which there was a drastic reduction of 7 sec when we executed the code against the WSC 2009 (3rd dataset) which was very less when compared with the time complexity achieved by the 4th placed team that participated in the WSC challenge.
+•	Technologies: Core Java, XML.
+
+
+AWARDS
+•	Had been an Insta-Award winner twice at Infosys (an award given every quarter to honor the employees for their outstanding contribution to the project in the Financial Services domain).	
+		                                                     
+
+EXTRA-CURRICULAR ACTIVITIES/ PERSONAL AND PROFESSIONAL INTERESTS 
+•	Had been the Secretary of Cynosure 2010 (a national level technical symposium).
+•	Had been a 3 times district level player in Ball Badminton.
+•	Had won many awards in inter-school and inter-collegiate competitions.

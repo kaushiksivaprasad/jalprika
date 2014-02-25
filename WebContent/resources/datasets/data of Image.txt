@@ -1,0 +1,310 @@
+Domains: Image processing, Machine learning
+Programming: C/C++, MATLAB, Unix shell scripting, Java, 68HC11 Assembly code
+Libraries: Nokia Qt, Kitware ITK, Kitware VTK, OpenGL, Nvidia Cg, Nvidia CUDA, FLTK, Siemens TeamCenter Enterprise
+(PLM) customization
+IDEs: MS Visual Studio, Eclipse	Tools: MS Expression Web, MS Project, MS Visio
+Operating Systems: Windows, Linux, HP-UX	Other: SVN, Rational ClearCase, LaTeX, HTML
+
+ “ASSEMBLING LARGE MOSAICS OF ELECTRON MICROSCOPE IMAGES USING GPUs”; Symposium on Application Accelerators in High Performance Computing (SAAHPC’ 09)[Accepted]
+AUTOMATIC MARKUP OF NEURAL CELL MEMBRANES USING BOOSTED DECISION STUMPS”; International Symposium on Biomedical Imaging (ISBI’09)[Accepted]
+
+Image Processing: Implemented algorithm for Image Mosaicing. Given set of image correspondences, the projection transforms were calculated and the final mosaic image was generated.
+Machine Learning: Implemented a cascade architecture based classifier for finding synapses in Rabbit retina images based on an
+ICCV'03 paper Learning a Rare Event Detection Cascade by Direct Feature Selection by Jianxin Wu et. al.
+Parallel programming using GPUs: Converted a C++ based image processing application to CUDA achieving 12x acceleration. The application assembles a mosaic of electron microscopy images. Work accepted at SAAHPC 2009.
+Computer Vision: Reconstructed 3D model of the Stanford dragon from Silhouette images obtained by rotation of the model. Advanced Computer graphics: Implemented “An Approximate Image-Space Approach for Interactive Refraction”(ACM Transactions on Graphics) by Chris Wyman using OpenGL and Cg shaders. In addition, have also worked on Bump Mapping, Shadows (projection, maps, and volumes), and Textures among several other Basic OpenGL topics.
+Computer Aided Geometric Design: Wrote a program that can display 3D polynomial B-spline surfaces using iso-lines and can also create a surface that interpolates to a grid of data with nodal interpolation.
+
+Image Processing & Computer Vision Software Designer
+NDT Technologies
+I designed a 2D measuring software device based on camera calibration system and camera image analyser. The work consisted of proposing and developing techniques and methods, resolving mathematical equations involved and programming the algorithms obtained in Matlab. The work was performed on a microcomputer using Windows XP Pro operating system.
+Scientific Software Designer
+I designed a set of programs pertaining to nondestructive testing systems. The two main of them were an acoustic wave simulation program and a 3D surface modeling program. The work consisted of developing the proposed methods and models, resolving the mathematical equations involved and programming the algorithms obtained in Matlab and C++. The work was performed on a microcomputer using Windows 2000 Pro operating system.
+Digital Signal Processing Software Designer
+I designed a set of programs performing Fast Fourier Transforms according to the Cooley & Tukey radix 4 and Cooley & Tukey split radix 4+2 algorithms. The work consisted of resolving the mathematical equations involved, programming the algorithms obtained in C & C++ and performing the program checks with Matlab and LiveMath software. The work was performed on a microcomputer using Windows NT operating system.
+Working for the DMR research and development department, I participated in the development of a new version of the DMR Workbench statistical software. This six-month assignment consisted primarily of developing the proposed statistical methods, programming the algorithms obtained in C and performing program checks. The work was performed on a microcomputer using the OS/2 Warp operating system.
+ 
+Programming languages: C & C++, Fortran 77 & Fortran 95 
+Programming tools: Matlab, Python 
+Software: LiveMath, Maple, Office, MathEQ
+
+
+ 2.7+ years of experience in image/video processing domain
+      integration of various image processing projects.
+    . Experience in image processing tools such as OpenCV,ITK,VTK,FLTK
+    . Filed US and Indian  patent  for  "AUTOMOBILE  ASSISTANCE  SYSTEM  FOR
+      OBJECT DETECTION AND TRACKING" as a developer.
+    . Worked  in  automotive  image  processing  domain  and  Medical  image
+      processing domain.
+
+   . Programming Languages:C,familiar with C++
+    . Software Development and Tools: OpenCV 1.1 and 2.1,
+      and 2008,Insight Tool Kit(ITK),Visual Tool  Kit(VTK),Fast  Light  Tool
+      Kit(FLTK).
+
+      Project Title            : Speed Limit and traffic signal  recognition
+      system
+      Environment            : GCC Compiler, Pentium-4 Intel Processor, Free
+      Scale IMX-51
+      Tool                          : Microsoft visual studio  2005,Open CV
+
+
+      Speed Limit  and traffic signal recognition system is a  project  that
+      can be used to detect and recognize speed  limit  signs   and  traffic
+      signal on both side of the road. A camera need to  be  placed  on  the
+      dash board of car. Speed Limit Recognition System  will  scan  through
+      the frames which is captured by camera,and detect the speed limit  and
+      traffic signal and recognize the speed  limit  and  alert  the  driver
+      accordingly.
+
+
+
+            :  Implementation  of  ITK  Goldstein  Phase
+      Unwrapping
+           .                                   Filter
+       Environment        : Pentium 4 Intel Processor
+      Tool                           :  Insight Tool Kit (ITK), FLTK
+
+
+      Description
+      Goldstein Filter implementation is a POC successfully executed by TCS
+      to demonstrate TCS image processing capabilities and grab customer
+      project.
+      The system consists of a FLTK based GUI module and ITK Compliant
+      Goldstein Filter module. The GUI shall Interface with the User and
+      shall get necessary inputs from user. The FLTK based GUI is integrated
+      with ITK framework. The ITK Compliant Goldstein filter module shall
+      unwrap the phase data of the input Image file and shall store the
+      output files in predefined location.
+
+ 
+                      : People counting application
+                 : GCC Compiler, Pentium-4 Intel Processor,Free
+                           Scale IMX-51
+     
+      An application that can be used to detect pedestrians passing through
+      road or count number of people that passing through a corresponding
+      area.HOG algorithm are using to detect pedestrians/people here.
+      Application will count the detection and display average number of
+     
+         . Modified HOG algorithm according to requirement.
+         . Training of Pedestrian images
+            :  Patient  Specific  Instrument  Surgeon
+      Tool
+      Environment                      : Pentium 4 Intel Processor
+      Tool                                   : Visual Tool Kit (VTK), FLTK
+\
+      Development of a 3D tool that can be useful for surgeon during knee
+      surfaces of the knee with metal and plastic components shaped to allow
+      continued motion of the knee. Tool will display front, side and bottom
+      view of Fermer and Tibia bones. Surgeon can visualize the abnormality
+      by rotating 3D scanned images of the same and can plan the angle of
+      cut, depth of cut they have to do for surgery. The tool enables the
+      surgeon to choose appropriate Metal plate to replace damaged surfaces
+      of bone.
+
+
+
+
+      Creating GUI using FLTK
+      Development of tool using VTK
+
+INTERESTS: Medical Imaging and Devices, Advanced Software and Product Development, Medical Data and 
+Image Processing, Advanced Visualization, MRI 
+ 
+Thesis: Optical Flow techniques for Motion Estimation from Tagged MR Images 
+ 
+Emphasis on Digital Image Processing 
+ 
+ 
+Medical Image Analysis (MRI, CT, Nuclear Medicine) 
+ Cardiac MR Imaging, Functional Oncology Imaging, Contrast Agents 
+  Image Registration, Image Segmentation, Advanced Visualization and Rendering 
+ - Multi-dimensional Image Processing, Numerical Methods and Iterative Algorithms 
+ - FDA Regulatory Processes, HIPAA Compliance, IRBs 
+  Extensive Customer Interaction for Research, Requirements, Design and Validation 
+ - Programming Languages: C, C++, IDL, MATLAB, HTML 
+ 
+ image-processing scientist for G.E.   Applied Science Lab in the area of cardiac MR image visualization, perfusion, 
+viability, functional imaging, and kinetic models. Responsibilities included defining and 
+implementing advanced image processing applications roadmap by interacting with physicians at 
+luminary cardiac MR sites such as Johns Hopkins Hospital, Cambridge Hospital, NIH, MD 
+and clinical scans. Experience with clinical protocols and multi-center trials, documentation, IRB 
+approvals, HIPAA compliance, and FDA regulatory processes. 
+
+ Image Analysis  algorithms for motion estimation from tagged cardiac MR images, and validated 
+them through simulations. Conducted research in the areas of image segmentation, optical flow, 
+and vector tomography. 
+ Image Analysis  
+Implemented a vector Wiener filter algorithm for dual-isotope radionuclide SPECT imaging. 
+Validated methods on simulated and real brain images. 
+ Image Analysis  
+Assisted in supervising and designing laboratory class for senior-level microprocessor 
+
+ artificial neural networks for pattern recognition. 
+ 
+ “Stochastic Models for DIV-CURL Optical Flow Methods,” IEEE Signal Processing Letters, 
+ 
+A Vector Wiener Filter for Dual-Radionuclide Imaging,” IEEE Transactions on Medical 
+
+ “On Variable Brightness Optical Flow for Tagged MRI,” in Information 
+Processing in Medical Imaging
+ “Bandpass Optical Flow for Tagged MRI,
+ “First-Pass Myocardial Perfusion MRI 
+ Oxygenation-Dependent Magnetic Resonance Imaging 
+ “A Technique for Automated Registration of Cardiac T2* images,
+“Cardiac Imaging with Steady-state Free Precession: Multi-shot Echo-Planar vs 
+“Fast Method for Correcting Image Misregistration Due to Organ Motion in Time-Series 
+MRI Data
+Why is Flow Mediated Dilation Dependent on Arterial Size? Assessment of the Shear Stress 
+Using Phase Contrast MRI,” Am J Physiol Heart Circ Physiol, 288: H822-H828, 2005. 
+“Accurate and Objective Infarct Sizing by Contrast-Enhanced Magnetic Resonance Imaging 
+in a Canine Myocardial Infarction Model,” J Amer Coll Cardiol., 44(12): 2383-9, 2004. 
+“Reproducibility of black-blood coronary vessel wall MR imaging,” J Cardio Mag Res, 
+
+“Enhanced Viability Imaging: Improved Contrast in Myocardial Delayed Enhancement Using 
+Dual Inversion-Time Subtraction,” In Press, MRM. 
+Dynamic Contrast Enhancement,” Molecular Imaging, 
+ “The apparent inversion time for optimal delayed enhancement magnetic resonance imaging 
+differs between the right and left ventricles,” J Cardio 
+1 “A novel method for assessing arterial endothelial function using phase contrast magnetic 
+resonance imaging: vasoconstriction during reduced shear.” J Cardio Mag Res, 
+Characterization of the peri-infarct zone by contrast-enhanced cardiac magnetic resonance 
+imaging is a powerful predictor of post-myocardial infarction mortality. 
+In imaging science, image processing is any form of signal processing for which the input is an image, such as a photograph or video frame; the output of image processing may be either an image or a set of characteristics or parameters related to the image. Most image-processing techniques involve treating the image as a two-dimensional signal and applying standard signal-processing techniques to it.
+Image processing refers to processing of a 2D picture by a computer. Basic definitions:
+An image defined in the “real world” is considered to be a function of two real variables, for example, a(x,y) with a as the amplitude (e.g. brightness) of the image at the real coordinate position (x,y).
+Modern digital technology has made it possible to manipulate multi-dimensional signals with systems that range from simple digital circuits to advanced parallel computers. The goal of this manipulation can be divided into three categories:
+Image Processing (image in -> image out)
+Image Analysis (image in -> measurements out)
+Image Understanding (image in -> high-level description out)
+Image processing usually refers to digital image processing, but optical and analog image processing also are possible. This article is about general techniques that apply to all of them. The acquisition of images (producing the input image in the first place) is referred to as imaging.
+, Image Processing, Information Retrieval, Machine Learning, Human Interface
+ Computer Vision, Pattern Recognition, Support Vector Machine People Recognition, Surveillance System
+Algorithms for Image Processing and Computer Vision (Second Edition)
+Digital Image Processing and Analysis provides the tools for developing and advancing computer and human vision applications and brings image processing and analysis together into a unified framework.
+Image Processing and Analysis - Variational, PDE, Wavelet, and Stochastic Methods
+ Image Processing - Principles and Applications
+The Handbook of Document Image Processing and Recognition provides a consistent, comprehensive resource on the available methods and techniques in document image processing and recognition. It includes unified comparison and contrast analysis of algorithms in standard table formats. Thus, it educates the reader in order to help them to make informed decisions on their particular problems.
+
+A Brief History of Documents and Writing Systems.- Machine-printed Character Recognition.- Handprinted Character
+
+ and Word Recognition.- Continuous Handwritten Script Recognition.- Middle Eastern Character Recognition.- Asian Character 
+
+Recognition.- Graphics Recognition Techniques.- An Overview of Symbol Recognition.- Analysis and Interpretation of Graphical Documents.- Logo and Trademark Recognition.- Recognition of Tables and Forms.- Document Creation, Image Acquisition and Document Quality.- Processing Mathematical Notation.- Document Analysis in Postal Applications and Check Processing.- Analysis and Recognition of Music Scores.- Analysis of Documents Born Digital.- Image Based Retrieval and Keyword.-  Spotting in Documents.- Text Localization and Recognition in Images and Video.- Online Handwriting Recognition.- Online Signature Verification.- Sketching Interfaces.- Datasets and Annotations for Document Analysis and Recognition.- The Evolution of Document Image Analysis.- Tools and Metrics for Document Analysis Systems Evaluation.- Imaging Techniques in Document Analysis Processes.- Page Segmentation Techniques in Document Analysis.- Analysis of the Logical Layout of Documents.- Page Similarity and Classification.- Text Segmentation for Document Recognition.- Language, Script and Font Recognition.- Part A, Introduction, Background and Fundamentals.- Part B, Page Analysis.- Part C, Text Recognition.- Part D, Processing of Non-textual Information.- Part E, Applications.- Part F, Analysis of Online Data.
+Evaluation and Benchmarking.
+foreign exchange trading
+image classification
+pattern recognition
+CIS sensor
+RMB image processing
+RMB images
+RMB serial numbers
+digital image processing
+image acquisition
+image processing technology
+linear perception
+paper currency classification system
+pattern recognition
+recognition accuracy
+IEEE TERMS
+Character recognition
+Computational Intelligence Society
+Digital arithmetic
+Digital images
+Image processing
+Image recognition
+Image sensors
+Paper technology
+Pattern recognition
+Sensor systems
+ unique and flexible interface for the comprehensive visualization, exploration and analysis of 2D gel data. It provides 
+powerful and innovative solutions to shorten the path from 
+data acquisition to protein information, both for conventional 2-DE and DIGE
+Expertise with Matlab (including MEX, GUI development, and OO techniques), particularly in rapid 
+prototyping and visualization for computer vision, image processing, and machine learning.
+ Also pro?cient in C/C++ (and OpenCV), with focus on object-oriented, modular design. 
+Image Processing for improvments of H264 compression within the R&D team.
+Development of an algorithm for image filtration (in Matlab and then C++) for easing H264 compression. The objective being the improvement of compression rate at constant image quality.
+Study and understanding on H264 compression process.
+3D Reconstruction with Matlab
+3D reconstruction by stereoscopy with R&D team. 
+Engineer in Image Processing and VIsion.
+TELECOM St Etienne (September 2007 - September 2010)
+Informatic Engineer with image processing option.
+Theorical and practical courses in Physics, Mathematics and Informatic.
+Signal/image/video processing, analysis and restoration; statistics; applied mathematics; computer science; biomedical imaging; inverse problems; estimation and detection theory; wavelets; MATLAB; ImageJ; Java; C; C++; HTML; multithreading; Office; iWork; LaTeX.
+A CURE for Noisy Magnetic Resonance Images: Chi-Square Unbiased Risk Estimation, IEEE Transactions on Image Processing, 2012, in press.
+2. F. Luisier, T. Blu, M. Unser, Image Denoising in Mixed Poisson-Gaussian Noise, IEEE Transactions on Image Processing
+M. Unser, Fast Interscale Wavelet Denoising of Poisson-Corrupted Images, Signal Processing, 
+SURE-LET Multichannel Image Denoising: Interscale Orthonormal Wavelet Thresholding, IEEE Transactions on Image Processing
+The SURE-LET Approach to Image Denoising, IEEE Transactions on Image Processing,
+Developed statistical image processing algorithms for reducing additive white
+Gaussian noise.
+o Acquired time-lapse confocal fluorescence microscopy images.
+
+Develop statistical image processing algorithms for improving the quality and
+accelerating the acquisition of magnetic resonance images.
+Travel Grant, IEEE International Conference on Image Processing (ICIP'10), Hong Kong, 2010.
+- IEEE Young Author Best Paper Award, IEEE Signal Processing Society, 2009.
+- Student Travel Grant, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'07), Hawaii, 2007.
+- Finalist of the Student Paper Contest, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'07), Hawaii, 2007.
+Postdoctoral Fellowship, Swiss National Science Foundation, 2010-2012.
+- Travel Grant, IEEE International Conference on Image Processing (ICIP'10), Hong Kong, 2010.
+- IEEE Young Author Best Paper Award, IEEE Signal Processing Society, 2009.
+- Student Travel Grant, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'07), Hawaii, 2007.
+ This position involves research and development in image processing applications that are of potential use within Intel. The work involves applying various image processing and analytical methods to specific problems of interest. Of special interest are novel techniques tied to variational segmentation, image and data classification methodologies,
+ 3-D image processing techniques, image compression, and texture analysis.
+This is where you can truly solve real world 3d image processing and facial recognition challenges.  The algorithms you develop and implement are critical to DSC's cutting-edge electro-optic surveillance systems.  You will work closely with like-minded developers, engineers and scientists to develop rock solid, robust and maintainable 
+software between complex hardware and software systems.
+Pattern Recognition and Java We need someone that is an expert in pattern recognition (corner detection) and image processing. 
+We have a Java applet that captures desktop screenshots. We need to be able to extract the component coordinates that is being clicked or typed in (in focus) from the image. The exact coordinates of the mouse click will be given so we 
+would need to analyze the surrounding area to get the full coordinates of the component. 
+
+Acquire, process, and analyze images and video for algorithm development and system design
+
+Algorithm development is central to image processing and computer vision because each situation is unique, and good solutions require multiple design iterations. MathWorks provides a comprehensive environment to gain insight into your image 
+and video data, develop algorithms, and explore implementation tradeoffs.
+
+ImageDimensions ? ImageChannels ? ImageType ? ImageHistogram ? ...
+Thumbnail — display an image in thumbnail form
+Basic Image Manipulation »
+ImageAdjust — adjust levels, brightness, contrast, gamma, etc.
+Sharpen ? Blur ? Lighter ? Darker ? ...
+ImageEffect — special image and photographic effects
+Geometric Operations »
+ImageCrop ? ImagePad ? ImageTake ? ...
+ImageResize ? ImageRotate ? ImageReflect
+ImageAlign ? ImageTransformation ? ImagePerspectiveTransformation ? ...
+Color Manipulation »
+ColorConvert ? ColorSeparate ? ColorQuantize ? ColorReplace ? ...
+ImageHistogram ? ImageLevels ? Binarize ? HistogramTransform ? ...
+Filtering & Neighborhood Processing »
+ImageFilter ? ImageConvolve ? ImageCorrelate
+GaussianFilter ? GradientFilter ? LaplacianFilter ? DerivativeFilter ? ...
+MinFilter ? MeanFilter ? MedianFilter ? EntropyFilter ? ...
+Morphological Image Processing »
+Dilation ? Erosion ? Opening ? Closing ? Thinning ? Pruning ? ...
+DistanceTransform ? TopHatTransform ? HitMissTransform ? ...
+MorphologicalComponents ? MorphologicalPerimeter ? MorphologicalEulerNumber ? ...
+Image Restoration »
+Inpaint ? ImageDeconvolve ? ...
+BilateralFilter ? MeanShiftFilter ? WienerFilter ? TotalVariationFilter ? CurvatureFlowFilter ? ...
+Feature Detection »
+EdgeDetect  ContourDetect  CrossingDetect  MinDetect  MaxDetect 
+ImageKeypoints  ImageCorrespondingPoints  ImageCorners 
+ImageLines  FindFaces  TextRecognize 
+Segmentation Analysis »
+Binarize — segmentation by thresholding
+MorphologicalBinarize  RegionBinarize 
+WatershedComponents  ClusteringComponents 
+ComponentMeasurements  SelectComponents 
+Texture Analysis
+ImageCooccurrence — create texture co-occurrence matrix
+Image Arithmetic
+ImageAdd  ImageSubtract  ImageDifference  ImageMultiply  ImageApply  ImageDistance
+Image Tiling & Compositing
+ImagePartition  ImageAssemble
+ImageCompose  HighlightImage
+Out-of-Core Image Processing
+ImageFileApply  ImageFileFilter  ImageFileScan
